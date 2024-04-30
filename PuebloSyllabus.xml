@@ -4215,6 +4215,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235451470",
 			"cito:hasCitedEntity": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235451470#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235451470",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235451470#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235451470",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -4295,6 +4309,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted."
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000319061#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000319061",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000319061#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000319061",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000319061#Cites",
@@ -4781,6 +4809,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000527147",
 			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000527147#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000527147",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000527147#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000527147",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -4940,6 +4982,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Pueblo v. Haas"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001140429#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001140429",
+			"cito:hasCitedEntity": "https://casetext.com/case/pueblo-v-haas",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001140429#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001140429",
+			"cito:hasCitedEntity": "https://casetext.com/case/pueblo-v-haas",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001140429#Cites",
@@ -5792,6 +5848,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001635236",
 			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001635236#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001635236",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001635236#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001635236",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -6030,6 +6100,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Pueblo v. Haas"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430002154705#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430002154705",
+			"cito:hasCitedEntity": "https://case-law.vlex.com/vid/pueblo-v-haas-sc-939753545",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430002154705#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430002154705",
+			"cito:hasCitedEntity": "https://case-law.vlex.com/vid/pueblo-v-haas-sc-939753545",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430002154705#Cites",
@@ -8215,6 +8299,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121138726",
 			"cito:hasCitedEntity": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121138726#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121138726",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121138726#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121138726",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -8499,6 +8597,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121613441",
 			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121613441#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121613441",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121613441#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121613441",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -8580,6 +8692,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "LeFever v. Mattews"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430122005362#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430122005362",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430122005362#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430122005362",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430122005362#Cites",
@@ -9146,6 +9272,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430122330843",
 			"cito:hasCitedEntity": "https://supreme.justia.com/cases/federal/us/576/644/",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430122330843#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430122330843",
+			"cito:hasCitedEntity": "https://supreme.justia.com/cases/federal/us/576/644/",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430122330843#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430122330843",
+			"cito:hasCitedEntity": "https://supreme.justia.com/cases/federal/us/576/644/",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -9227,6 +9367,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "LeFever v. Matthews"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430125910353#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430125910353",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430125910353#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430125910353",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430125910353#Cites",
@@ -9714,6 +9868,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130226946",
 			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130226946#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130226946",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130226946#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130226946",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -9795,6 +9963,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Obergefell v. Hodges, 576 US 644"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130303550#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130303550",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130303550#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130303550",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130303550#Cites",
@@ -10282,6 +10464,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130315241",
 			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130315241#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130315241",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130315241#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130315241",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -10363,6 +10559,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Obergefell v. Hodges, 576 US 644"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130330683#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130330683",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130330683#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130330683",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130330683#Cites",
@@ -10850,6 +11060,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130347716",
 			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130347716#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130347716",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130347716#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130347716",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q19866992",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -11134,6 +11358,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130527174",
 			"cito:hasCitedEntity": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130527174#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130527174",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130527174#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130527174",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -11215,6 +11453,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "equitable-parent doctrine"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130901092#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130901092",
+			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130901092#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130901092",
+			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430130901092#Cites",
@@ -11963,6 +12215,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430131426959",
 			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q188116",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430131426959#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430131426959",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q188116",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430131426959#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430131426959",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q188116",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -12115,7 +12381,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?rs_annotation_20240430132317893#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[34]/rs[10]"
+			"rdf:value": "TEI/text/body/div/p[34]/rs[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -12272,7 +12538,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?rs_annotation_20240430132528775#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[34]/rs[8]"
+			"rdf:value": "TEI/text/body/div/p[34]/rs[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -12518,6 +12784,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "equitable-parent doctrine"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430133425339#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430133425339",
+			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430133425339#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430133425339",
+			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430133425339#Cites",
@@ -13005,6 +13285,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140718686",
 			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140718686#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140718686",
+			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140718686#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140718686",
+			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -13289,6 +13583,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140756276",
 			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140756276#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140756276",
+			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140756276#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140756276",
+			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -13370,6 +13678,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "equitable-parent doctrine"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140842297#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140842297",
+			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140842297#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140842297",
+			"cito:hasCitedEntity": "https://www.lsd.law/define/equitable-parent-doctrine",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430140842297#Cites",
@@ -15515,7 +15837,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?rs_annotation_20240430151829683#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[34]/rs[9]"
+			"rdf:value": "TEI/text/body/div/p[34]/rs[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -16202,7 +16524,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?rs_annotation_20240430152715909",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T19:27:15.909Z",
-	"dcterms:modified": "2024-04-30T19:27:15.909Z",
+	"dcterms:modified": "2024-04-30T19:30:06.316Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -16234,7 +16556,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:Role",
-		"@id": "http://www.wikidata.org/entity/Q159394",
+		"@id": "http://dbpedia.org/resource/Defendant",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -16405,12 +16727,171 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?rs_annotation_20240430152849200",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-30T19:28:49.200Z",
+	"dcterms:modified": "2024-04-30T19:28:49.200Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sofiawilson",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Sofia"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?rs_annotation_20240430152849200#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?rs_annotation_20240430152849200#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[12]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:Occupation",
+		"@id": "http://dbpedia.org/resource/Judge",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?rs_annotation_20240430152936394",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-04-30T19:29:36.394Z",
+	"dcterms:modified": "2024-04-30T19:29:36.394Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sofiawilson",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Sofia"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?rs_annotation_20240430152936394#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?rs_annotation_20240430152936394#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[34]/rs[8]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:Role",
+		"@id": "http://dbpedia.org/resource/Plaintiff",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<div>
 				<head>Pueblo v. Haas: Syllabus.</head>
-				<p/><p/><p><orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Michigan Supreme Court</orgName></p><p><placeName key="Lansing" ref="http://www.wikidata.org/entity/Q28237" cert="high">Lansing, Michigan<precision match="@ref" precision="high"/></placeName></p><p/><p/><p><rs key="chief justice" ref="http://www.wikidata.org/entity/Q3188089" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation">Chief Justice</rs>:</p><p/><p><persName key="Elizabeth T. Clement" ref="http://www.wikidata.org/entity/Q43302902" cert="high" role="jud" type="real">Elizabeth T. Clement</persName></p><p/><p/><p>Justices: </p><p><persName key="Brian K. Zahra" ref="http://www.wikidata.org/entity/Q4964273" role="jud">Brian K. Zahra</persName></p><p><persName key="David F. Viviano" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-david-f.-viviano/" cert="high" role="jud" type="real">David F. Viviano</persName></p><p><persName key="Richard H. Bernstein" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-richard-bernstein/" role="jud">Richard H. Bernstein</persName></p><p><persName key="Megan K. Cavanagh" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" cert="high" role="jud" type="real">Megan K. Cavanagh</persName></p><p><persName key="Elizabeth M. Welch" ref="http://www.wikidata.org/entity/Q102027631" role="jud">Elizabeth M. Welch</persName></p><p><persName key="Kyra H. Bolden" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud" type="real">Kyra H. Bolden</persName></p><p/><p/><p>This syllabus constitutes no part of the opinion of the <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342">Court</orgName> but has been prepared by the Reporter of Decisions for the convenience of the reader.</p><p/><p/><p>Reporter of Decisions: </p><p><persName key="Kathryn L. Loomis" ref="https://www.courts.michigan.gov/4a8a44/siteassets/news-releases/kathryn-loomis-reporter-of-decisions.pdf" cert="medium" role="rpt">Kathryn L. Loomis</persName></p><p/><p/><p>PUEBLO v. HAAS</p><p/><p/><p>Docket No. 164046. Argued <date when="2023-04-04" cert="high">April 4, 2023</date> (Calendar No. 3). Decided <date when="2023-07-24">July 24, 2023</date>.</p><p/><p/><p><persName key="Carrie Pueblo" ref="https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/" cert="high" role="ptt" type="real">Carrie Pueblo</persName> brought an action against her former domestic partner, <persName key="Rachel Haas" ref="https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/" role="dfe">Rachel Haas</persName>, in the <orgName key="Kalamazoo Circuit Court" ref="https://www.kalcounty.com/courts/circuit/" cert="high"><placeName key="Kalamazoo" ref="http://www.wikidata.org/entity/Q167155">Kalamazoo</placeName> Circuit Court</orgName> under the Child Custody Act (CCA)<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf"/>Michigan Child Custody Act (CCA)</bibl></note>, MCL 722.21 et seq.<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21"/>Child Custody Act of 1970, Section 1:  This act shall be known and may be cited as the "child custody act of 1970". </bibl></note>, seeking joint custody and parenting time for a child whom <rs key="defendant" ref="http://www.wikidata.org/entity/Q159394" type="http://sparql.cwrc.ca/ontology/cwrc#Role">defendant<note>Rachel Haas</note></rs> conceived through <rs key="in vitro fertilization" ref="http://www.wikidata.org/entity/Q200117" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#ReproductiveHistory">in vitro fertilization</rs> and gave birth to in <date when="2008" cert="high">2008</date>, during the parties’ relationship. <rs key="defendant" ref="http://www.wikidata.org/entity/Q159394" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Role">Defendant<note>Rachel Haas</note></rs> moved for summary disposition<note type="researchNote">https://en.wikipedia.org/wiki/Summary_judgment</note> under MCR 2.116(C)(5)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (5) The party asserting the claim lacks the legal capacity to sue.</bibl></note> and MCR 2.116(C)(8)<note exclude="C" type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note>, asserting that because the parties had never married and <rs key="plaintiff" ref="http://www.wikidata.org/entity/Q468489" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Role">plaintiff<note>Carrie Pueblo</note></rs> had no biological or adoptive relationship to the child, <rs key="plaintiff" ref="http://www.wikidata.org/entity/Q468489" type="http://sparql.cwrc.ca/ontology/cwrc#Role">plaintiff<note>Carrie Pueblo</note></rs> lacked standing to sue and also failed to state a claim for which relief could be granted. Following a hearing, the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName>, <persName key="Stephen D. Gorsalitz" ref="https://ballotpedia.org/Stephen_Gorsalitz" cert="high" role="jud" type="real">Stephen D. Gorsalitz</persName>, <rs key="judge" ref="http://www.wikidata.org/entity/Q16533" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation">J.</rs><note>Justice</note>, granted the motion and dismissed the case without prejudice. After <rs key="defendant" ref="http://www.wikidata.org/entity/Q159394" type="http://sparql.cwrc.ca/ontology/cwrc#Role">defendant<note>Rachel Haas</note></rs> moved for reconsideration, the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> dismissed the action with prejudice. Plaintiff then filed her own motion for reconsideration, arguing that she had standing as a natural parent, despite the lack of genetic connection, following the <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507" cert="high">Court of Appeals</orgName> decision in LeFever v Matthews<note type="citation"><bibl><ref target="https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF"/>LeFever v Matthews</bibl></note>, 336 Mich App 651<note type="citation"><bibl><ref target="https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF"/>LeFever v. Mattews</bibl></note> (<date when="2021">2021</date>), which expanded the definition of “natural parent” to include unmarried women who gave birth as surrogates but shared no genetic connection with the children. Plaintiff also asserted that the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName> order violated her Fourteenth Amendment<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q188116"/>Fourteenth Amendment</bibl></note> rights to due process and equal protection, as well as those of the child. Plaintiff further argued that any dismissal should have been without prejudice. The <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> denied reconsideration, distinguishing LeFever<note type="citation"><bibl><ref target="https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF"/>LeFever v. Matthews</bibl></note> on the ground that plaintiff had not given birth to the child. Plaintiff appealed, reasserting her previous arguments and further asserting that the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note> should extend to the parties’ relationship, which had been solemnized in a civil commitment ceremony when it was not yet legal in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> for same-sex partners to marry. The <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName>, <persName key="MICHAEL F. GADOLA" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/fourth-district-judges/" role="jud">GADOLA</persName>, <rs key="Presiding Judge" ref="https://www.law.cornell.edu/wex/presiding_judge" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation">P.J.</rs><note type="annotation">Presiding Justice</note>, and <persName key="BROCK A. SWARTZLE" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/fourth-district-judges/" cert="high" role="jud" type="real">SWARTZLE</persName> and <persName key="THOMAS C. CAMERON" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/first-district-judges/" cert="medium" role="jud">CAMERON</persName>, <rs key="judge" ref="http://www.wikidata.org/entity/Q16533" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation">JJ.</rs><note>Justices</note>, rejected these arguments and affirmed the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName> in an unpublished per curiam opinion of the <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName>, issued <date when="2021-12-28" cert="high">December 28, 2021</date> (Docket No. 357577<note type="citation"><bibl><ref target="https://casetext.com/case/pueblo-v-haas"/>Pueblo v. Haas</bibl></note>). The <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Supreme Court</orgName> granted plaintiff’s application for leave to appeal, asking whether and to what extent the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note> should be extended to provide standing under the CCA to plaintiff and those similarly situated in light of Obergefell v Hodges<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q19866992"/>Obergefell v. Hodges (576 US 644)</bibl></note>, 576 US 644<note type="citation"><bibl><ref target="https://supreme.justia.com/cases/federal/us/576/644/"/>Obergefell v. Hodges</bibl></note> (<date when="2015">2015</date>), which invalidated <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s prohibitions on <rs key="same-sex marriage" ref="http://www.wikidata.org/entity/Q17422" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Sexuality">same-sex marriage</rs>. 510 Mich 936<note type="citation"><bibl><ref target="https://case-law.vlex.com/vid/pueblo-v-haas-sc-939753545"/>Pueblo v. Haas</bibl></note> (<date when="2022">2022</date>).</p><p>In an opinion by Justice <persName key="MEGAN K. CAVANAGH" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" cert="high" role="jud" type="real">CAVANAGH</persName> , joined by Chief Justice <persName key="Elizabeth T. Clement" ref="http://www.wikidata.org/entity/Q43302902" role="jud">CLEMENT</persName> and Justices <persName key="RICHARD H. BERNSTEIN" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-richard-bernstein/" cert="high" role="jud" type="real">BERNSTEIN</persName>, <persName key="Elizabeth M. Welch" ref="http://www.wikidata.org/entity/Q102027631" role="jud">WELCH</persName>, and <persName key="KYRA H. BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud">BOLDEN</persName>, the <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Supreme Court</orgName> held:</p><p>A former member of a same-sex couple seeking custody of a child to whom they did not give birth and with whom they share no genetic connection is entitled to make their case for equitable parenthood and thus establish standing to bring an action under the CCA<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf"/>Michigan Child Custody Act</bibl></note>. To do so, the plaintiff must demonstrate by a preponderance of the evidence that the parties would have married before the child’s conception or birth but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s unconstitutional marriage ban. When determining whether a plaintiff satisfies this standard, courts should consider the nondispositive factors set forth in In re Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone</bibl></note>, 271 Or App 116<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone</bibl></note> (<date when="2015" cert="high">2015</date>). The <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName> judgment was reversed and the case remanded to the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName> to apply this threshold test. To the extent that Lake v Putnam<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5c3db94e342cca5c89f06519"/>Lake v. Putnam</bibl></note>, 316 Mich App 247<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5c3db94e342cca5c89f06519"/>Lake v. Putnam</bibl></note> (<date when="2016">2016</date>), was inconsistent with the Court’s opinion, it was overruled.</p><p>1. Under the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note>, a spouse who is not a biological parent has standingto seek custody of a child born or conceived during their marriage when (1) the would-be equitable parent and the child acknowledge the parental relationship or the biological or adoptive parent has cultivated the development of a relationship over a period of time, (2) the would-be equitable parent desires to have the rights afforded a parent, and (3) the would-be equitable parent is willing to pay child support. Before <date when="2015" cert="high">2015</date>, <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> unconstitutionally prohibited same-sex couples from marrying and refused to recognize legal marriages performed in other jurisdictions. Consequently, a same-sex partner did not have the option to adopt their spouse’s child or to marry their pregnant partner and benefit from the marital presumption of parentage. Further, unmarried same-sex couples were not permitted to adopt through second-parent adoption. Obergefell<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q19866992"/>Obergefell v. Hodges, 576 US 644</bibl></note> rendered <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s unconstitutional bar on same-sex marriage unenforceable, holding that the denial of the ability to marry was a denial of same-sex couples’ constitutional due-process and equal-protection rights. Obergefell<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q19866992"/>Obergefell v. Hodges, 576 US 644</bibl></note> noted generally the importance of the various benefits that the stateshave connected to marriage, referred to as the “constellation of benefits,” and specifically emphasized the harm that the unconstitutional prohibition on marriage caused the children of same-sex couples. Recognition of equitable parenthood is one of the “constellation of benefits” associated with marriage in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, and, as a matter of equity and constitutional law, <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> courts are compelled to treat same-sex couples equally. Accordingly, Obergefell<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q19866992"/>Obergefell v. Hodges, 576 US 644</bibl></note> demanded the extension of the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note> to those who were unable to marry during their same-sex relationships because of discriminatory and unconstitutional <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName> laws but who developed de facto parent-child relationships with the children born or adopted by their same-sex partners during the time they would have otherwise been married. This extension served the underlying rationale of the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note>, which considers the best interests of the child to be paramount, and it was consistent with recent developments in the law recognizing that federal and state law protects people from discrimination on the basis of sexual orientation. It was not necessary to overrule Van<note type="citation"><bibl><ref target="https://casetext.com/case/van-v-zahorik"/>Van v. Zahorik</bibl></note>, which involved parties who chose not to legally marry despite their ability to do so. However, it was necessary to overrule Lake<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5c3db94e342cca5c89f06519"/>Lake v. Putnam</bibl></note>, which had declined to extend the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note> to same-sex couples who had previously been unable to marry, to the extent it was inconsistent with the Court’s holding. Lake<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5c3db94e342cca5c89f06519"/>Lake v. Putnam</bibl></note>’s concern about retroactively and unilaterally creating a marriage relationship against the parties’ wishes was remedied by requiring the person seeking custody to show, by a preponderance of the evidence, that the parties would have married had they been legally permitted to do so in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>. In light of the conclusion that plaintiff may pursue standing as an equitable parent, her alternative claims were not addressed.</p><p>2. A would-be equitable parent has standing if they demonstrate by the preponderance of the evidence that the parties would have married before the child’s birth or conception but for the unconstitutional laws that prevented them from doing so. This approach is based on Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note>, which crafted a factual inquiry to be applied when extending the presumption of parentage in its artificial-insemination statute to same-sex partners of biological mothers. Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note> concluded that the proper focus was on whether the parties would have married but for the previous unconstitutional state prohibition on same-sex marriage, which involved a contemporaneous inquiry concerning the mutual intent of the parties. The relevant factors it concluded would support an inference that same-sex partners would have married but for the prior unconstitutional bar included whether the couple took advantage of other options giving legal recognition to their relationship, held each other out as or considered themselves to be spouses, had children during the relationship and shared childrearing responsibilities, held a commitment ceremony or otherwise exchanged vows of commitment, exchanged rings, shared a last name, commingled their assets and finances, made significant financial decisions together, sought to adopt any children either of them may have had before the relationship began, or attempted unsuccessfully to get married. The <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342">Supreme Court</orgName> adopted this approach and held that in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, if the intent tomarry is disputed, a would-be equitable parent must prove by a preponderance of the evidence that the couple would have married based on their contemporaneous conduct, considering the illustrative but nondispositive and nonexhaustive factors set forth in Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note>. If that threshold test for standing is satisfied, the court may evaluate the equitable-parent factors to determine whether the would-be equitable parent has standing to seek custody and parenting time.</p><p>3. Plaintiff made a sufficient showing to survive summary disposition under MCR2.116(C)(8)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note> on standing grounds. In particular, plaintiff’s allegations that she cultivated the development of a relationship with the child over a period of time, desires to have parental rights,and is willing to pay child support are sufficient to advance her claim for equitable parenthood. Plaintiff also alleged facts entitling her to a threshold determination of whether the parties would have married but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>’s unconstitutional bar on same-sex marriage.</p><p><orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName> judgment reversed; case remanded to the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> for further proceedings.</p><p>2. A would-be equitable parent has standing if they demonstrate by the preponderance ofthe evidence that the parties would have married before the child’s birth or conception but for the unconstitutional laws that prevented them from doing so. This approach is based on Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note>, which crafted a factual inquiry to be applied when extending the presumption of parentage in its artificial-insemination statute to same-sex partners of biological mothers. Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note> concluded that the proper focus was on whether the parties would have married but for the previous unconstitutional state prohibition on same-sex marriage, which involved a contemporaneous inquiry concerning the mutual intent of the parties. The relevant factors it concluded would support an inference that same-sex partners would have married but for the prior unconstitutional bar included whether the couple took advantage of other options giving legal recognition to their relationship, held each other out as or considered themselves to be spouses, had children during the relationship and shared childrearing responsibilities, held a commitment ceremony orotherwise exchanged vows of commitment, exchanged rings, shared a last name, commingled their assets and finances, made significant financial decisions together, sought to adopt any children either of them may have had before the relationship began, or attempted unsuccessfully to get married. The <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Supreme Court</orgName> adopted this approach and held that in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, if the intent tomarry is disputed, a would-be equitable parent must prove by a preponderance of the evidence that the couple would have married based on their contemporaneous conduct, considering the illustrative but nondispositive and nonexhaustive factors set forth in Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note>. If that threshold test for standing is satisfied, the court may evaluate the equitable-parent factors to determine whether the would-be equitable parent has standing to seek custody and parenting time.</p><p>3. Plaintiff made a sufficient showing to survive summary disposition under MCR2.116(C)(8)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note> on standing grounds. In particular, plaintiff’s allegations that she cultivated the development of a relationship with the child over a period of time, desires to have parental rights, and is willing to pay child support are sufficient to advance her claim for equitable parenthood. Plaintiff also alleged facts entitling her to a threshold determination of whether the parties would have married but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>’s unconstitutional bar on same-sex marriage.</p><p><orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507" cert="high">Court of Appeals</orgName> judgment reversed; case remanded to the <orgName key="trial court " ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName> for further proceedings.</p><p>Justice <persName key="KYRA H. BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" cert="high" role="jud" type="real">BOLDEN</persName>, concurring, wrote separately to note that because many state laws relating to marriage, out-of-wedlock parenting, and reproductive technologies had been enacted without consideration of Obergefell<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q19866992"/>Obergefell v. Hodges, 576 US 644</bibl></note>, the Legislature should act to resolve the lingering puzzles that<note type="citation"><bibl><ref target="https://casetext.com/case/van-v-zahorik"/>Van v. Zahorik</bibl></note> remained regarding how the current applicable statutory schemes could fit the practical realities of same-sex relationships with regard to parenting. In particular, she stated that, aside from the question whether the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> should address the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note>, it should clarify ambiguities in the CCA, which says nothing about biology or marriage and contains an unclear definition of “natural parent.” She echoed former Justice KELLY ’s observation in Van that, incustody disputes, the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName>’s overriding concern has not been the preservation of the institution of marriage, but rather the best interests of the children, and she suggested that the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> consider amending the CCA for consistency with this priority in mind. She also suggested that the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273">Legislature</orgName> consider whether to enact a formal procedure to address situations like plaintiff’s. In sum, she urged the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273">Legislature</orgName> to answer the questions raised by this case regarding children born to same-sex couples by enacting a sufficient statutory scheme that would adequately reflect equal-protection and due-process considerations.</p><p>Justice <persName key="Brian K. Zahra" ref="http://www.wikidata.org/entity/Q4964273" role="jud">ZAHRA</persName> , joined by Justice <persName key="DAVID F. VIVIANO" ref="https://en.wikipedia.org/wiki/David_Viviano" cert="high" role="jud" type="real">VIVIANO</persName>, dissenting, disagreed with the extension of the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note>. He questioned the validity of the doctrine, expressed concern that its legally unsupported extension would result in far-reaching ramifications outside the child custody context, and did not believe it was an appropriate tool to provide plaintiff the relief she sought. He also questioned the advisability of the “but for” test set forth by the majority and worried that itwould be applied too broadly. Finally, he emphasized that plaintiff’s remedy rested with the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> rather than the judiciary. For these reasons, he would have declined to disturb the lower courts’ decisions.</p><p/></div>
+				<p/><p/><p><orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Michigan Supreme Court</orgName></p><p><placeName key="Lansing" ref="http://www.wikidata.org/entity/Q28237" cert="high">Lansing, Michigan<precision match="@ref" precision="high"/></placeName></p><p/><p/><p><rs key="chief justice" ref="http://www.wikidata.org/entity/Q3188089" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation">Chief Justice</rs>:</p><p/><p><persName key="Elizabeth T. Clement" ref="http://www.wikidata.org/entity/Q43302902" cert="high" role="jud" type="real">Elizabeth T. Clement</persName></p><p/><p/><p><rs key="Judge" ref="http://dbpedia.org/resource/Judge" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation">Justices</rs>: </p><p><persName key="Brian K. Zahra" ref="http://www.wikidata.org/entity/Q4964273" role="jud">Brian K. Zahra</persName></p><p><persName key="David F. Viviano" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-david-f.-viviano/" cert="high" role="jud" type="real">David F. Viviano</persName></p><p><persName key="Richard H. Bernstein" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-richard-bernstein/" role="jud">Richard H. Bernstein</persName></p><p><persName key="Megan K. Cavanagh" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" cert="high" role="jud" type="real">Megan K. Cavanagh</persName></p><p><persName key="Elizabeth M. Welch" ref="http://www.wikidata.org/entity/Q102027631" role="jud">Elizabeth M. Welch</persName></p><p><persName key="Kyra H. Bolden" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud" type="real">Kyra H. Bolden</persName></p><p/><p/><p>This syllabus constitutes no part of the opinion of the <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342">Court</orgName> but has been prepared by the Reporter of Decisions for the convenience of the reader.</p><p/><p/><p>Reporter of Decisions: </p><p><persName key="Kathryn L. Loomis" ref="https://www.courts.michigan.gov/4a8a44/siteassets/news-releases/kathryn-loomis-reporter-of-decisions.pdf" cert="medium" role="rpt">Kathryn L. Loomis</persName></p><p/><p/><p>PUEBLO v. HAAS</p><p/><p/><p>Docket No. 164046. Argued <date when="2023-04-04" cert="high">April 4, 2023</date> (Calendar No. 3). Decided <date when="2023-07-24">July 24, 2023</date>.</p><p/><p/><p><persName key="Carrie Pueblo" ref="https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/" cert="high" role="ptt" type="real">Carrie Pueblo</persName> brought an action against her former domestic partner, <persName key="Rachel Haas" ref="https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/" role="dfe">Rachel Haas</persName>, in the <orgName key="Kalamazoo Circuit Court" ref="https://www.kalcounty.com/courts/circuit/" cert="high"><placeName key="Kalamazoo" ref="http://www.wikidata.org/entity/Q167155">Kalamazoo</placeName> Circuit Court</orgName> under the Child Custody Act (CCA)<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf"/>Michigan Child Custody Act (CCA)</bibl></note>, MCL 722.21 et seq.<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21"/>Child Custody Act of 1970, Section 1:  This act shall be known and may be cited as the "child custody act of 1970". </bibl></note>, seeking joint custody and parenting time for a child whom <rs key="defendant" ref="http://www.wikidata.org/entity/Q159394" type="http://sparql.cwrc.ca/ontology/cwrc#Role">defendant<note>Rachel Haas</note></rs> conceived through <rs key="in vitro fertilization" ref="http://www.wikidata.org/entity/Q200117" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#ReproductiveHistory">in vitro fertilization</rs> and gave birth to in <date when="2008" cert="high">2008</date>, during the parties’ relationship. <rs key="defendant" ref="http://www.wikidata.org/entity/Q159394" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Role">Defendant<note>Rachel Haas</note></rs> moved for summary disposition<note type="researchNote">https://en.wikipedia.org/wiki/Summary_judgment</note> under MCR 2.116(C)(5)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (5) The party asserting the claim lacks the legal capacity to sue.</bibl></note> and MCR 2.116(C)(8)<note exclude="C" type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note>, asserting that because the parties had never married and <rs key="plaintiff" ref="http://www.wikidata.org/entity/Q468489" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Role">plaintiff<note>Carrie Pueblo</note></rs> had no biological or adoptive relationship to the child, <rs key="plaintiff" ref="http://www.wikidata.org/entity/Q468489" type="http://sparql.cwrc.ca/ontology/cwrc#Role">plaintiff<note>Carrie Pueblo</note></rs> lacked standing to sue and also failed to state a claim for which relief could be granted. Following a hearing, the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName>, <persName key="Stephen D. Gorsalitz" ref="https://ballotpedia.org/Stephen_Gorsalitz" cert="high" role="jud" type="real">Stephen D. Gorsalitz</persName>, <rs key="judge" ref="http://www.wikidata.org/entity/Q16533" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation">J.</rs><note>Justice</note>, granted the motion and dismissed the case without prejudice. After <rs key="Defendant" ref="http://dbpedia.org/resource/Defendant" type="http://sparql.cwrc.ca/ontology/cwrc#Role">defendant<note>Rachel Haas</note></rs> moved for reconsideration, the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> dismissed the action with prejudice. <rs key="Plaintiff" ref="http://dbpedia.org/resource/Plaintiff" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Role">Plaintiff</rs> then filed her own motion for reconsideration, arguing that she had standing as a natural parent, despite the lack of genetic connection, following the <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507" cert="high">Court of Appeals</orgName> decision in LeFever v Matthews<note type="citation"><bibl><ref target="https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF"/>LeFever v Matthews</bibl></note>, 336 Mich App 651<note type="citation"><bibl><ref target="https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF"/>LeFever v. Mattews</bibl></note> (<date when="2021">2021</date>), which expanded the definition of “natural parent” to include unmarried women who gave birth as surrogates but shared no genetic connection with the children. Plaintiff also asserted that the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName> order violated her Fourteenth Amendment<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q188116"/>Fourteenth Amendment</bibl></note> rights to due process and equal protection, as well as those of the child. Plaintiff further argued that any dismissal should have been without prejudice. The <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> denied reconsideration, distinguishing LeFever<note type="citation"><bibl><ref target="https://www.courts.michigan.gov/siteassets/case-documents/uploads/OPINIONS/FINAL/COA/20210401_C353106_49_353106.OPN.PDF"/>LeFever v. Matthews</bibl></note> on the ground that plaintiff had not given birth to the child. Plaintiff appealed, reasserting her previous arguments and further asserting that the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note> should extend to the parties’ relationship, which had been solemnized in a civil commitment ceremony when it was not yet legal in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> for same-sex partners to marry. The <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName>, <persName key="MICHAEL F. GADOLA" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/fourth-district-judges/" role="jud">GADOLA</persName>, <rs key="Presiding Judge" ref="https://www.law.cornell.edu/wex/presiding_judge" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation">P.J.</rs><note type="annotation">Presiding Justice</note>, and <persName key="BROCK A. SWARTZLE" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/fourth-district-judges/" cert="high" role="jud" type="real">SWARTZLE</persName> and <persName key="THOMAS C. CAMERON" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/first-district-judges/" cert="medium" role="jud">CAMERON</persName>, <rs key="judge" ref="http://www.wikidata.org/entity/Q16533" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation">JJ.</rs><note>Justices</note>, rejected these arguments and affirmed the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName> in an unpublished per curiam opinion of the <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName>, issued <date when="2021-12-28" cert="high">December 28, 2021</date> (Docket No. 357577<note type="citation"><bibl><ref target="https://casetext.com/case/pueblo-v-haas"/>Pueblo v. Haas</bibl></note>). The <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Supreme Court</orgName> granted plaintiff’s application for leave to appeal, asking whether and to what extent the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note> should be extended to provide standing under the CCA to plaintiff and those similarly situated in light of Obergefell v Hodges<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q19866992"/>Obergefell v. Hodges (576 US 644)</bibl></note>, 576 US 644<note type="citation"><bibl><ref target="https://supreme.justia.com/cases/federal/us/576/644/"/>Obergefell v. Hodges</bibl></note> (<date when="2015">2015</date>), which invalidated <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s prohibitions on <rs key="same-sex marriage" ref="http://www.wikidata.org/entity/Q17422" cert="high" type="http://sparql.cwrc.ca/ontology/cwrc#Sexuality">same-sex marriage</rs>. 510 Mich 936<note type="citation"><bibl><ref target="https://case-law.vlex.com/vid/pueblo-v-haas-sc-939753545"/>Pueblo v. Haas</bibl></note> (<date when="2022">2022</date>).</p><p>In an opinion by Justice <persName key="MEGAN K. CAVANAGH" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" cert="high" role="jud" type="real">CAVANAGH</persName> , joined by Chief Justice <persName key="Elizabeth T. Clement" ref="http://www.wikidata.org/entity/Q43302902" role="jud">CLEMENT</persName> and Justices <persName key="RICHARD H. BERNSTEIN" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-richard-bernstein/" cert="high" role="jud" type="real">BERNSTEIN</persName>, <persName key="Elizabeth M. Welch" ref="http://www.wikidata.org/entity/Q102027631" role="jud">WELCH</persName>, and <persName key="KYRA H. BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud">BOLDEN</persName>, the <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Supreme Court</orgName> held:</p><p>A former member of a same-sex couple seeking custody of a child to whom they did not give birth and with whom they share no genetic connection is entitled to make their case for equitable parenthood and thus establish standing to bring an action under the CCA<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf"/>Michigan Child Custody Act</bibl></note>. To do so, the plaintiff must demonstrate by a preponderance of the evidence that the parties would have married before the child’s conception or birth but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s unconstitutional marriage ban. When determining whether a plaintiff satisfies this standard, courts should consider the nondispositive factors set forth in In re Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone</bibl></note>, 271 Or App 116<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone</bibl></note> (<date when="2015" cert="high">2015</date>). The <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName> judgment was reversed and the case remanded to the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName> to apply this threshold test. To the extent that Lake v Putnam<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5c3db94e342cca5c89f06519"/>Lake v. Putnam</bibl></note>, 316 Mich App 247<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5c3db94e342cca5c89f06519"/>Lake v. Putnam</bibl></note> (<date when="2016">2016</date>), was inconsistent with the Court’s opinion, it was overruled.</p><p>1. Under the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note>, a spouse who is not a biological parent has standingto seek custody of a child born or conceived during their marriage when (1) the would-be equitable parent and the child acknowledge the parental relationship or the biological or adoptive parent has cultivated the development of a relationship over a period of time, (2) the would-be equitable parent desires to have the rights afforded a parent, and (3) the would-be equitable parent is willing to pay child support. Before <date when="2015" cert="high">2015</date>, <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> unconstitutionally prohibited same-sex couples from marrying and refused to recognize legal marriages performed in other jurisdictions. Consequently, a same-sex partner did not have the option to adopt their spouse’s child or to marry their pregnant partner and benefit from the marital presumption of parentage. Further, unmarried same-sex couples were not permitted to adopt through second-parent adoption. Obergefell<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q19866992"/>Obergefell v. Hodges, 576 US 644</bibl></note> rendered <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s unconstitutional bar on same-sex marriage unenforceable, holding that the denial of the ability to marry was a denial of same-sex couples’ constitutional due-process and equal-protection rights. Obergefell<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q19866992"/>Obergefell v. Hodges, 576 US 644</bibl></note> noted generally the importance of the various benefits that the stateshave connected to marriage, referred to as the “constellation of benefits,” and specifically emphasized the harm that the unconstitutional prohibition on marriage caused the children of same-sex couples. Recognition of equitable parenthood is one of the “constellation of benefits” associated with marriage in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, and, as a matter of equity and constitutional law, <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> courts are compelled to treat same-sex couples equally. Accordingly, Obergefell<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q19866992"/>Obergefell v. Hodges, 576 US 644</bibl></note> demanded the extension of the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note> to those who were unable to marry during their same-sex relationships because of discriminatory and unconstitutional <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName> laws but who developed de facto parent-child relationships with the children born or adopted by their same-sex partners during the time they would have otherwise been married. This extension served the underlying rationale of the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note>, which considers the best interests of the child to be paramount, and it was consistent with recent developments in the law recognizing that federal and state law protects people from discrimination on the basis of sexual orientation. It was not necessary to overrule Van<note type="citation"><bibl><ref target="https://casetext.com/case/van-v-zahorik"/>Van v. Zahorik</bibl></note>, which involved parties who chose not to legally marry despite their ability to do so. However, it was necessary to overrule Lake<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5c3db94e342cca5c89f06519"/>Lake v. Putnam</bibl></note>, which had declined to extend the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note> to same-sex couples who had previously been unable to marry, to the extent it was inconsistent with the Court’s holding. Lake<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5c3db94e342cca5c89f06519"/>Lake v. Putnam</bibl></note>’s concern about retroactively and unilaterally creating a marriage relationship against the parties’ wishes was remedied by requiring the person seeking custody to show, by a preponderance of the evidence, that the parties would have married had they been legally permitted to do so in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>. In light of the conclusion that plaintiff may pursue standing as an equitable parent, her alternative claims were not addressed.</p><p>2. A would-be equitable parent has standing if they demonstrate by the preponderance of the evidence that the parties would have married before the child’s birth or conception but for the unconstitutional laws that prevented them from doing so. This approach is based on Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note>, which crafted a factual inquiry to be applied when extending the presumption of parentage in its artificial-insemination statute to same-sex partners of biological mothers. Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note> concluded that the proper focus was on whether the parties would have married but for the previous unconstitutional state prohibition on same-sex marriage, which involved a contemporaneous inquiry concerning the mutual intent of the parties. The relevant factors it concluded would support an inference that same-sex partners would have married but for the prior unconstitutional bar included whether the couple took advantage of other options giving legal recognition to their relationship, held each other out as or considered themselves to be spouses, had children during the relationship and shared childrearing responsibilities, held a commitment ceremony or otherwise exchanged vows of commitment, exchanged rings, shared a last name, commingled their assets and finances, made significant financial decisions together, sought to adopt any children either of them may have had before the relationship began, or attempted unsuccessfully to get married. The <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342">Supreme Court</orgName> adopted this approach and held that in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, if the intent tomarry is disputed, a would-be equitable parent must prove by a preponderance of the evidence that the couple would have married based on their contemporaneous conduct, considering the illustrative but nondispositive and nonexhaustive factors set forth in Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note>. If that threshold test for standing is satisfied, the court may evaluate the equitable-parent factors to determine whether the would-be equitable parent has standing to seek custody and parenting time.</p><p>3. Plaintiff made a sufficient showing to survive summary disposition under MCR2.116(C)(8)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note> on standing grounds. In particular, plaintiff’s allegations that she cultivated the development of a relationship with the child over a period of time, desires to have parental rights,and is willing to pay child support are sufficient to advance her claim for equitable parenthood. Plaintiff also alleged facts entitling her to a threshold determination of whether the parties would have married but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>’s unconstitutional bar on same-sex marriage.</p><p><orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName> judgment reversed; case remanded to the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> for further proceedings.</p><p>2. A would-be equitable parent has standing if they demonstrate by the preponderance ofthe evidence that the parties would have married before the child’s birth or conception but for the unconstitutional laws that prevented them from doing so. This approach is based on Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note>, which crafted a factual inquiry to be applied when extending the presumption of parentage in its artificial-insemination statute to same-sex partners of biological mothers. Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note> concluded that the proper focus was on whether the parties would have married but for the previous unconstitutional state prohibition on same-sex marriage, which involved a contemporaneous inquiry concerning the mutual intent of the parties. The relevant factors it concluded would support an inference that same-sex partners would have married but for the prior unconstitutional bar included whether the couple took advantage of other options giving legal recognition to their relationship, held each other out as or considered themselves to be spouses, had children during the relationship and shared childrearing responsibilities, held a commitment ceremony orotherwise exchanged vows of commitment, exchanged rings, shared a last name, commingled their assets and finances, made significant financial decisions together, sought to adopt any children either of them may have had before the relationship began, or attempted unsuccessfully to get married. The <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Supreme Court</orgName> adopted this approach and held that in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, if the intent tomarry is disputed, a would-be equitable parent must prove by a preponderance of the evidence that the couple would have married based on their contemporaneous conduct, considering the illustrative but nondispositive and nonexhaustive factors set forth in Madrone<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5914e212add7b049348ee442"/>In re Madrone, 271 Or App 116</bibl></note>. If that threshold test for standing is satisfied, the court may evaluate the equitable-parent factors to determine whether the would-be equitable parent has standing to seek custody and parenting time.</p><p>3. Plaintiff made a sufficient showing to survive summary disposition under MCR2.116(C)(8)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note> on standing grounds. In particular, plaintiff’s allegations that she cultivated the development of a relationship with the child over a period of time, desires to have parental rights, and is willing to pay child support are sufficient to advance her claim for equitable parenthood. Plaintiff also alleged facts entitling her to a threshold determination of whether the parties would have married but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>’s unconstitutional bar on same-sex marriage.</p><p><orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507" cert="high">Court of Appeals</orgName> judgment reversed; case remanded to the <orgName key="trial court " ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName> for further proceedings.</p><p>Justice <persName key="KYRA H. BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" cert="high" role="jud" type="real">BOLDEN</persName>, concurring, wrote separately to note that because many state laws relating to marriage, out-of-wedlock parenting, and reproductive technologies had been enacted without consideration of Obergefell<note type="citation"><bibl><ref target="http://www.wikidata.org/entity/Q19866992"/>Obergefell v. Hodges, 576 US 644</bibl></note>, the Legislature should act to resolve the lingering puzzles that<note type="citation"><bibl><ref target="https://casetext.com/case/van-v-zahorik"/>Van v. Zahorik</bibl></note> remained regarding how the current applicable statutory schemes could fit the practical realities of same-sex relationships with regard to parenting. In particular, she stated that, aside from the question whether the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> should address the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note>, it should clarify ambiguities in the CCA, which says nothing about biology or marriage and contains an unclear definition of “natural parent.” She echoed former Justice KELLY ’s observation in Van that, incustody disputes, the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName>’s overriding concern has not been the preservation of the institution of marriage, but rather the best interests of the children, and she suggested that the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> consider amending the CCA for consistency with this priority in mind. She also suggested that the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273">Legislature</orgName> consider whether to enact a formal procedure to address situations like plaintiff’s. In sum, she urged the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273">Legislature</orgName> to answer the questions raised by this case regarding children born to same-sex couples by enacting a sufficient statutory scheme that would adequately reflect equal-protection and due-process considerations.</p><p>Justice <persName key="Brian K. Zahra" ref="http://www.wikidata.org/entity/Q4964273" role="jud">ZAHRA</persName> , joined by Justice <persName key="DAVID F. VIVIANO" ref="https://en.wikipedia.org/wiki/David_Viviano" cert="high" role="jud" type="real">VIVIANO</persName>, dissenting, disagreed with the extension of the equitable-parent doctrine<note type="citation"><bibl><ref target="https://www.lsd.law/define/equitable-parent-doctrine"/>equitable-parent doctrine</bibl></note>. He questioned the validity of the doctrine, expressed concern that its legally unsupported extension would result in far-reaching ramifications outside the child custody context, and did not believe it was an appropriate tool to provide plaintiff the relief she sought. He also questioned the advisability of the “but for” test set forth by the majority and worried that itwould be applied too broadly. Finally, he emphasized that plaintiff’s remedy rested with the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> rather than the judiciary. For these reasons, he would have declined to disturb the lower courts’ decisions.</p><p/></div>
 		</body>
 	</text>
 </TEI>
