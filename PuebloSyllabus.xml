@@ -50,6 +50,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429212336129",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:23:36.129Z",
+	"dcterms:modified": "2024-04-30T01:23:36.129Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -76,7 +77,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429212336129#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[8]/orgName"
+			"rdf:value": "TEI/text/body/div/p[3]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -129,6 +130,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429212412362",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:24:12.362Z",
+	"dcterms:modified": "2024-04-30T01:24:12.362Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -155,7 +157,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429212412362#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[9]/placeName"
+			"rdf:value": "TEI/text/body/div/p[4]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -209,6 +211,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429212529093",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:25:29.093Z",
+	"dcterms:modified": "2024-04-30T01:25:29.093Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -235,7 +238,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429212529093#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[14]/persName"
+			"rdf:value": "TEI/text/body/div/p[9]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -288,6 +291,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429212552150",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:25:52.150Z",
+	"dcterms:modified": "2024-04-30T01:25:52.150Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -314,7 +318,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429212552150#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[18]/persName"
+			"rdf:value": "TEI/text/body/div/p[13]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -366,6 +370,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429212905459",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:29:05.459Z",
+	"dcterms:modified": "2024-04-30T01:29:05.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -392,7 +397,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429212905459#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[19]/persName"
+			"rdf:value": "TEI/text/body/div/p[14]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -445,6 +450,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429212949250",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:29:49.250Z",
+	"dcterms:modified": "2024-04-30T01:29:49.250Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -471,7 +477,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429212949250#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[20]/persName"
+			"rdf:value": "TEI/text/body/div/p[15]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -523,6 +529,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429213046049",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:30:46.049Z",
+	"dcterms:modified": "2024-04-30T01:30:46.049Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -549,7 +556,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429213046049#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[21]/persName"
+			"rdf:value": "TEI/text/body/div/p[16]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -602,6 +609,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429213104280",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:31:04.280Z",
+	"dcterms:modified": "2024-04-30T01:31:04.280Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -628,7 +636,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429213104280#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[22]/persName"
+			"rdf:value": "TEI/text/body/div/p[17]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -680,6 +688,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429213136866",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:31:36.866Z",
+	"dcterms:modified": "2024-04-30T01:31:36.866Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -706,7 +715,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429213136866#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[23]/persName"
+			"rdf:value": "TEI/text/body/div/p[18]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -758,6 +767,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429213214357",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:32:14.357Z",
+	"dcterms:modified": "2024-04-30T01:32:14.357Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -784,7 +794,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429213214357#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[26]/orgName"
+			"rdf:value": "TEI/text/body/div/p[21]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -836,6 +846,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429213527893",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:35:27.893Z",
+	"dcterms:modified": "2024-04-30T01:35:27.893Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -862,7 +873,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429213527893#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[30]/persName"
+			"rdf:value": "TEI/text/body/div/p[25]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -915,6 +926,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429213621401",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T01:36:21.401Z",
+	"dcterms:modified": "2024-04-30T01:36:21.401Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -941,7 +953,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429213621401#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[36]/date"
+			"rdf:value": "TEI/text/body/div/p[31]/date"
 		}
 	},
 	"oa:hasBody": {
@@ -992,6 +1004,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429222615675",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T02:26:15.675Z",
+	"dcterms:modified": "2024-04-30T02:26:15.675Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1018,7 +1031,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429222615675#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[36]/date[2]"
+			"rdf:value": "TEI/text/body/div/p[31]/date[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1069,6 +1082,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429222830651",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T02:28:30.651Z",
+	"dcterms:modified": "2024-04-30T02:28:30.651Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1095,7 +1109,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429222830651#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/persName"
+			"rdf:value": "TEI/text/body/div/p[34]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1148,6 +1162,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429222902415",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T02:29:02.415Z",
+	"dcterms:modified": "2024-04-30T02:29:02.415Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1174,7 +1189,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429222902415#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[34]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1226,6 +1241,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429223001518",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T02:30:01.518Z",
+	"dcterms:modified": "2024-04-30T02:30:01.518Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1252,7 +1268,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429223001518#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/orgName"
+			"rdf:value": "TEI/text/body/div/p[34]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -1305,6 +1321,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429223032910",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T02:30:32.910Z",
+	"dcterms:modified": "2024-04-30T02:30:32.910Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1331,7 +1348,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429223032910#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/orgName/placeName"
+			"rdf:value": "TEI/text/body/div/p[34]/orgName/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -1383,6 +1400,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429224735557",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T02:47:35.557Z",
+	"dcterms:modified": "2024-04-30T02:47:35.557Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1409,7 +1427,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429224735557#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/date"
+			"rdf:value": "TEI/text/body/div/p[34]/date"
 		}
 	},
 	"oa:hasBody": {
@@ -1460,6 +1478,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429224833961",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T02:48:33.961Z",
+	"dcterms:modified": "2024-04-30T02:48:33.961Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1486,7 +1505,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429224833961#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[34]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1539,6 +1558,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429231047448",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:10:47.448Z",
+	"dcterms:modified": "2024-04-30T03:10:47.448Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1565,7 +1585,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429231047448#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/orgName[2]"
+			"rdf:value": "TEI/text/body/div/p[34]/orgName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1618,6 +1638,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429231134218",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:11:34.218Z",
+	"dcterms:modified": "2024-04-30T03:11:34.218Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1644,7 +1665,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429231134218#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/orgName[3]"
+			"rdf:value": "TEI/text/body/div/p[34]/orgName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1696,6 +1717,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429231731351",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:17:31.351Z",
+	"dcterms:modified": "2024-04-30T03:17:31.351Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1722,7 +1744,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429231731351#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/date[5]"
+			"rdf:value": "TEI/text/body/div/p[34]/date[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -1773,6 +1795,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429231803192",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:18:03.192Z",
+	"dcterms:modified": "2024-04-30T03:18:03.192Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1799,7 +1822,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429231803192#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/date[3]"
+			"rdf:value": "TEI/text/body/div/p[34]/date[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1850,6 +1873,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429231837414",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:18:37.414Z",
+	"dcterms:modified": "2024-04-30T03:18:37.414Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1876,7 +1900,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429231837414#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[41]/placeName"
+			"rdf:value": "TEI/text/body/div/p[36]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -1930,6 +1954,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429232046259",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:20:46.259Z",
+	"dcterms:modified": "2024-04-30T03:20:46.259Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1956,7 +1981,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429232046259#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[42]/placeName"
+			"rdf:value": "TEI/text/body/div/p[37]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -2008,6 +2033,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429232206018",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:22:06.018Z",
+	"dcterms:modified": "2024-04-30T03:22:06.018Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2034,7 +2060,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429232206018#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[42]/placeName[2]"
+			"rdf:value": "TEI/text/body/div/p[37]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -2088,6 +2114,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233025959",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:30:25.959Z",
+	"dcterms:modified": "2024-04-30T03:30:25.959Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2114,7 +2141,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233025959#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/placeName"
+			"rdf:value": "TEI/text/body/div/p[34]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -2166,6 +2193,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233038533",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:30:38.533Z",
+	"dcterms:modified": "2024-04-30T03:30:38.533Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2192,7 +2220,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233038533#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/placeName[2]"
+			"rdf:value": "TEI/text/body/div/p[34]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -2246,6 +2274,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233106162",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:31:06.162Z",
+	"dcterms:modified": "2024-04-30T03:31:06.162Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2272,7 +2301,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233106162#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[42]/placeName[3]"
+			"rdf:value": "TEI/text/body/div/p[37]/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -2326,6 +2355,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233121934",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:31:21.934Z",
+	"dcterms:modified": "2024-04-30T03:31:21.934Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2352,7 +2382,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233121934#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[42]/placeName[4]"
+			"rdf:value": "TEI/text/body/div/p[37]/placeName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -2404,6 +2434,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233227097",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:32:27.097Z",
+	"dcterms:modified": "2024-04-30T03:32:27.097Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2430,7 +2461,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233227097#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[42]/placeName[5]"
+			"rdf:value": "TEI/text/body/div/p[37]/placeName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -2484,6 +2515,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233238445",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:32:38.445Z",
+	"dcterms:modified": "2024-04-30T03:32:38.445Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2510,7 +2542,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233238445#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[42]/placeName[6]"
+			"rdf:value": "TEI/text/body/div/p[37]/placeName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -2562,6 +2594,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233253026",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:32:53.026Z",
+	"dcterms:modified": "2024-04-30T03:32:53.026Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2588,7 +2621,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233253026#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[43]/placeName"
+			"rdf:value": "TEI/text/body/div/p[38]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -2642,6 +2675,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233304150",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:33:04.150Z",
+	"dcterms:modified": "2024-04-30T03:33:04.150Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2668,7 +2702,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233304150#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[44]/placeName"
+			"rdf:value": "TEI/text/body/div/p[39]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -2720,6 +2754,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233316981",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:33:16.981Z",
+	"dcterms:modified": "2024-04-30T03:33:16.981Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2746,7 +2781,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233316981#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[46]/placeName"
+			"rdf:value": "TEI/text/body/div/p[41]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -2800,6 +2835,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233326159",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:33:26.159Z",
+	"dcterms:modified": "2024-04-30T03:33:26.159Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2826,7 +2862,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?place_annotation_20240429233326159#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[46]/placeName[2]"
+			"rdf:value": "TEI/text/body/div/p[41]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -2878,6 +2914,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429233632238",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:36:32.238Z",
+	"dcterms:modified": "2024-04-30T03:36:32.238Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2904,7 +2941,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429233632238#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/date[4]"
+			"rdf:value": "TEI/text/body/div/p[34]/date[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -2955,6 +2992,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429233643093",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:36:43.093Z",
+	"dcterms:modified": "2024-04-30T03:36:43.093Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2981,7 +3019,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429233643093#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[41]/date"
+			"rdf:value": "TEI/text/body/div/p[36]/date"
 		}
 	},
 	"oa:hasBody": {
@@ -3032,6 +3070,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429233652850",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:36:52.850Z",
+	"dcterms:modified": "2024-04-30T03:36:52.850Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3058,7 +3097,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429233652850#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[41]/date[2]"
+			"rdf:value": "TEI/text/body/div/p[36]/date[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3109,6 +3148,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429233723618",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:37:23.618Z",
+	"dcterms:modified": "2024-04-30T03:37:23.618Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3135,7 +3175,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240429233723618#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[42]/date"
+			"rdf:value": "TEI/text/body/div/p[37]/date"
 		}
 	},
 	"oa:hasBody": {
@@ -3186,6 +3226,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429233919028",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:39:19.028Z",
+	"dcterms:modified": "2024-04-30T03:39:19.028Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3212,7 +3253,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429233919028#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/persName[4]"
+			"rdf:value": "TEI/text/body/div/p[34]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -3264,6 +3305,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?note_annotation_20240429234548588",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:45:48.588Z",
+	"dcterms:modified": "2024-04-30T03:45:48.588Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3290,7 +3332,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?note_annotation_20240429234548588#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/note[5]"
+			"rdf:value": "TEI/text/body/div/p[34]/note[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -3342,6 +3384,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429235145154",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:51:45.154Z",
+	"dcterms:modified": "2024-04-30T03:51:45.154Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3368,7 +3411,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429235145154#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/persName[5]"
+			"rdf:value": "TEI/text/body/div/p[34]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -3421,6 +3464,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429234755705",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:47:55.705Z",
+	"dcterms:modified": "2024-04-30T03:47:55.705Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3447,7 +3491,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240429234755705#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/persName[6]"
+			"rdf:value": "TEI/text/body/div/p[34]/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -3500,6 +3544,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?note_annotation_20240429235000707",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:50:00.707Z",
+	"dcterms:modified": "2024-04-30T03:50:00.707Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3526,7 +3571,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?note_annotation_20240429235000707#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/note[6]"
+			"rdf:value": "TEI/text/body/div/p[34]/note[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -3578,6 +3623,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429235110605",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:51:10.605Z",
+	"dcterms:modified": "2024-04-30T03:51:10.605Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3604,7 +3650,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240429235110605#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/orgName[5]"
+			"rdf:value": "TEI/text/body/div/p[34]/orgName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -3657,6 +3703,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235451470",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:54:51.470Z",
+	"dcterms:modified": "2024-04-30T03:54:51.470Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3683,7 +3730,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235451470#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/note[2]"
+			"rdf:value": "TEI/text/body/div/p[34]/note[2]"
 		}
 	},
 	"oa:hasBody": [
@@ -3744,6 +3791,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235730547",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T03:57:30.547Z",
+	"dcterms:modified": "2024-04-30T03:57:30.547Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3770,7 +3818,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235730547#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/note"
+			"rdf:value": "TEI/text/body/div/p[34]/note"
 		}
 	},
 	"oa:hasBody": [
@@ -3831,6 +3879,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000319061",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:03:19.061Z",
+	"dcterms:modified": "2024-04-30T04:03:19.061Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3857,7 +3906,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000319061#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/note[4]"
+			"rdf:value": "TEI/text/body/div/p[34]/note[4]"
 		}
 	},
 	"oa:hasBody": [
@@ -3918,6 +3967,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000527147",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:05:27.147Z",
+	"dcterms:modified": "2024-04-30T04:05:27.147Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3944,7 +3994,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000527147#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/note[3]"
+			"rdf:value": "TEI/text/body/div/p[34]/note[3]"
 		}
 	},
 	"oa:hasBody": [
@@ -4005,6 +4055,7 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240430000621806",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:06:21.806Z",
+	"dcterms:modified": "2024-04-30T04:06:21.806Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4031,7 +4082,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?date_annotation_20240430000621806#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/date[2]"
+			"rdf:value": "TEI/text/body/div/p[34]/date[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -4082,7 +4133,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001140429",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:11:40.429Z",
-	"dcterms:modified": "2024-04-30T04:11:40.429Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4109,7 +4159,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001140429#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/note[7]"
+			"rdf:value": "TEI/text/body/div/p[34]/note[7]"
 		}
 	},
 	"oa:hasBody": [
@@ -4170,7 +4220,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430001235011",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:12:35.011Z",
-	"dcterms:modified": "2024-04-30T04:12:35.011Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4197,7 +4246,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430001235011#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[40]/orgName"
+			"rdf:value": "TEI/text/body/div/p[35]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -4250,7 +4299,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001635236",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:16:35.236Z",
-	"dcterms:modified": "2024-04-30T04:16:35.236Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4277,7 +4325,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001635236#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[44]/note"
+			"rdf:value": "TEI/text/body/div/p[39]/note"
 		}
 	},
 	"oa:hasBody": [
@@ -4338,7 +4386,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430001705528",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:17:05.528Z",
-	"dcterms:modified": "2024-04-30T04:17:05.528Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4365,7 +4412,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430001705528#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[43]/orgName"
+			"rdf:value": "TEI/text/body/div/p[38]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -4417,7 +4464,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430002002774",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:20:02.774Z",
-	"dcterms:modified": "2024-04-30T04:20:02.774Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4444,7 +4490,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430002002774#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[40]/persName"
+			"rdf:value": "TEI/text/body/div/p[35]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -4497,7 +4543,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430002154705",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:21:54.705Z",
-	"dcterms:modified": "2024-04-30T04:21:54.705Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4524,7 +4569,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430002154705#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/note[8]"
+			"rdf:value": "TEI/text/body/div/p[34]/note[8]"
 		}
 	},
 	"oa:hasBody": [
@@ -4585,7 +4630,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430002300642",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:23:00.642Z",
-	"dcterms:modified": "2024-04-30T04:23:00.642Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4612,7 +4656,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430002300642#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[49]/persName"
+			"rdf:value": "TEI/text/body/div/p[44]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -4664,7 +4708,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430002351976",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:23:51.976Z",
-	"dcterms:modified": "2024-04-30T04:23:51.976Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4691,7 +4734,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430002351976#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[49]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[44]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -4744,7 +4787,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430002443388",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T04:24:43.388Z",
-	"dcterms:modified": "2024-04-30T04:24:43.388Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4771,7 +4813,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430002443388#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[49]/orgName"
+			"rdf:value": "TEI/text/body/div/p[44]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -4824,7 +4866,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430103649393",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T14:36:49.393Z",
-	"dcterms:modified": "2024-04-30T14:36:49.393Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4851,7 +4892,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430103649393#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[41]/note"
+			"rdf:value": "TEI/text/body/div/p[36]/note"
 		}
 	},
 	"oa:hasBody": [
@@ -4912,7 +4953,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430103809646",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T14:38:09.646Z",
-	"dcterms:modified": "2024-04-30T14:38:09.646Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4939,7 +4979,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430103809646#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[40]/persName[4]"
+			"rdf:value": "TEI/text/body/div/p[35]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -4991,7 +5031,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430111358594",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T15:13:58.594Z",
-	"dcterms:modified": "2024-04-30T15:13:58.594Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5018,7 +5057,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430111358594#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[41]/orgName"
+			"rdf:value": "TEI/text/body/div/p[36]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -5070,7 +5109,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430115009297",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T15:50:09.297Z",
-	"dcterms:modified": "2024-04-30T15:50:09.297Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5097,7 +5135,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430115009297#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[48]/persName"
+			"rdf:value": "TEI/text/body/div/p[43]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -5150,7 +5188,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115105948",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T15:51:05.948Z",
-	"dcterms:modified": "2024-04-30T15:51:05.948Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5177,7 +5214,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115105948#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[48]/orgName[2]"
+			"rdf:value": "TEI/text/body/div/p[43]/orgName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -5230,7 +5267,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115133952",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T15:51:33.952Z",
-	"dcterms:modified": "2024-04-30T15:51:33.952Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5257,7 +5293,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115133952#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[48]/orgName[4]"
+			"rdf:value": "TEI/text/body/div/p[43]/orgName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -5309,7 +5345,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115221834",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T15:52:21.834Z",
-	"dcterms:modified": "2024-04-30T15:52:21.834Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5336,7 +5371,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115221834#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[48]/orgName"
+			"rdf:value": "TEI/text/body/div/p[43]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -5389,7 +5424,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115903611",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T15:59:03.611Z",
-	"dcterms:modified": "2024-04-30T15:59:03.611Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5416,7 +5450,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115903611#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[48]/orgName[5]"
+			"rdf:value": "TEI/text/body/div/p[43]/orgName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -5465,10 +5499,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115928981",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115938611",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T15:59:28.981Z",
-	"dcterms:modified": "2024-04-30T15:59:38.611Z",
+	"dcterms:created": "2024-04-30T15:59:38.611Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5479,7 +5512,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115928981#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115938611#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml",
@@ -5493,9 +5526,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115928981#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430115938611#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[48]/orgName[3]"
+			"rdf:value": "TEI/text/body/div/p[43]/orgName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -5548,7 +5581,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430120039006",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T16:00:39.006Z",
-	"dcterms:modified": "2024-04-30T16:00:39.006Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5575,7 +5607,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430120039006#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[45]/orgName"
+			"rdf:value": "TEI/text/body/div/p[40]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -5627,7 +5659,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430120132643",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T16:01:32.643Z",
-	"dcterms:modified": "2024-04-30T16:01:32.643Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5654,7 +5685,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430120132643#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[47]/orgName"
+			"rdf:value": "TEI/text/body/div/p[42]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -5707,7 +5738,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430120205328",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T16:02:05.328Z",
-	"dcterms:modified": "2024-04-30T16:02:05.328Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5734,7 +5764,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?organization_annotation_20240430120205328#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[39]/orgName[4]"
+			"rdf:value": "TEI/text/body/div/p[34]/orgName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -5786,7 +5816,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430120248528",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T16:02:48.528Z",
-	"dcterms:modified": "2024-04-30T16:02:48.528Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5813,7 +5842,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430120248528#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[40]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[35]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -5943,7 +5972,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430120409364",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T16:04:09.364Z",
-	"dcterms:modified": "2024-04-30T16:04:09.364Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5970,7 +5998,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430120409364#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[40]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[35]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -6023,7 +6051,6 @@
 	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430120545146",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T16:05:45.146Z",
-	"dcterms:modified": "2024-04-30T16:05:45.146Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -6050,7 +6077,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?person_annotation_20240430120545146#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[40]/persName[5]"
+			"rdf:value": "TEI/text/body/div/p[35]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -6072,7 +6099,7 @@
 		<body>
 			<div>
 				<head>Syllabus.</head>
-				<p/><p/><p/><p/><p/><p/><p/><p><orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Michigan Supreme Court</orgName></p><p><placeName key="Lansing" ref="http://www.wikidata.org/entity/Q28237" cert="high">Lansing, Michigan<precision match="@ref" precision="high"/></placeName></p><p/><p/><p>Chief Justice:</p><p/><p><persName key="Elizabeth T. Clement" ref="http://www.wikidata.org/entity/Q43302902" cert="high" role="jud" type="real">Elizabeth T. Clement</persName></p><p/><p/><p>Justices: </p><p><persName key="Brian K. Zahra" ref="http://www.wikidata.org/entity/Q4964273" role="jud">Brian K. Zahra</persName></p><p><persName key="David F. Viviano" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-david-f.-viviano/" cert="high" role="jud" type="real">David F. Viviano</persName></p><p><persName key="Richard H. Bernstein" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-richard-bernstein/" role="jud">Richard H. Bernstein</persName></p><p><persName key="Megan K. Cavanagh" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" cert="high" role="jud" type="real">Megan K. Cavanagh</persName></p><p><persName key="Elizabeth M. Welch" ref="http://www.wikidata.org/entity/Q102027631" role="jud">Elizabeth M. Welch</persName></p><p><persName key="Kyra H. Bolden" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud" type="real">Kyra H. Bolden</persName></p><p/><p/><p>This syllabus constitutes no part of the opinion of the <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342">Court</orgName> but has been prepared by the Reporter of Decisions for the convenience of the reader.</p><p/><p/><p>Reporter of Decisions: </p><p><persName key="Kathryn L. Loomis" ref="https://www.courts.michigan.gov/4a8a44/siteassets/news-releases/kathryn-loomis-reporter-of-decisions.pdf" cert="medium" role="rpt">Kathryn L. Loomis</persName></p><p/><p/><p>PUEBLO v. HAAS</p><p/><p/><p>Docket No. 164046. Argued <date when="2023-04-04" cert="high">April 4, 2023</date> (Calendar No. 3). Decided <date when="2023-07-24">July 24, 2023</date>.</p><p/><p/><p><persName key="Carrie Pueblo" ref="https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/" cert="high" role="ptt" type="real">Carrie Pueblo</persName> brought an action against her former domestic partner, <persName key="Rachel Haas" ref="https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/" role="dfe">Rachel Haas</persName>, in the <orgName key="Kalamazoo Circuit Court" ref="https://www.kalcounty.com/courts/circuit/" cert="high"><placeName key="Kalamazoo" ref="http://www.wikidata.org/entity/Q167155">Kalamazoo</placeName> Circuit Court</orgName> under the Child Custody Act (CCA)<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf"/><bibl/></bibl></note>, MCL 722.21 et seq.<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21"/>Child Custody Act of 1970, Section 1:  This act shall be known and may be cited as the "child custody act of 1970". </bibl></note>, seeking joint custody and parenting time for a child whom defendant conceived through in vitro fertilization and gave birth to in <date when="2008" cert="high">2008</date>, during the parties’ relationship. Defendant moved for summary disposition under MCR 2.116(C)(5)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (5) The party asserting the claim lacks the legal capacity to sue.</bibl></note> and MCR 2.116(C)(8)<note exclude="C" type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note>, asserting that because the parties had never married and plaintiff had no biological or adoptive relationship to the child, plaintiff lacked standing to sue and also failed to state a claim for which relief could be granted. Following a hearing, the trial court, <persName key="Stephen D. Gorsalitz" ref="https://ballotpedia.org/Stephen_Gorsalitz" cert="high" role="jud" type="real">Stephen D. Gorsalitz</persName>, J., granted the motion and dismissed the case without prejudice. After defendant moved for reconsideration, the trial court dismissed the action with prejudice. Plaintiff then filed her own motion for reconsideration, arguing that she had standing as a natural parent, despite the lack of genetic connection, following the <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507" cert="high">Court of Appeals</orgName> decision in LeFever v Matthews, 336 Mich App 651 (<date when="2021">2021</date>), which expanded the definition of “natural parent” to include unmarried women who gave birth as surrogates but shared no genetic connection with the children. Plaintiff also asserted that the trial court order violated her Fourteenth Amendment rights to due process and equal protection, as well as those of the child. Plaintiff further argued that any dismissal should have been without prejudice. The trial court denied reconsideration, distinguishing LeFever on the ground that plaintiff had not given birth to the child. Plaintiff appealed, reasserting her previous arguments and further asserting that the equitable-parent doctrine should extend to the parties’ relationship, which had been solemnized in a civil commitment ceremony when it was not yet legal in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> for same-sex partners to marry. The <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName>, <persName key="MICHAEL F. GADOLA" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/fourth-district-judges/" role="jud">GADOLA</persName>, P.J.<note type="annotation">Presiding Justice</note>, and <persName key="BROCK A. SWARTZLE" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/fourth-district-judges/" cert="high" role="jud" type="real">SWARTZLE</persName> and <persName key="THOMAS C. CAMERON" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/first-district-judges/" cert="medium" role="jud">CAMERON</persName>, JJ.<note>Justices</note>, rejected these arguments and affirmed the trial court in an unpublished per curiam opinion of the <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName>, issued <date when="2021-12-28" cert="high">December 28, 2021</date> (Docket No. 357577<note type="citation"><bibl><ref target="https://casetext.com/case/pueblo-v-haas"/>Pueblo v. Haas</bibl></note>). The <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Supreme Court</orgName> granted plaintiff’s application forleave to appeal, asking whether and to what extent the equitable-parent doctrine should be extended to provide standing under the CCA to plaintiff and those similarly situated in light of Obergefell v Hodges, 576 US 644 (<date when="2015">2015</date>), which invalidated <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s prohibitions on same-sex marriage. 510 Mich 936<note type="citation"><bibl><ref target="https://case-law.vlex.com/vid/pueblo-v-haas-sc-939753545"/>Pueblo v. Haas</bibl></note> (<date when="2022">2022</date>).</p><p>In an opinion by Justice <persName key="MEGAN K. CAVANAGH" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" cert="high" role="jud" type="real">CAVANAGH</persName> , joined by Chief Justice <persName key="Elizabeth T. Clement" ref="http://www.wikidata.org/entity/Q43302902" role="jud">CLEMENT</persName> and Justices <persName key="RICHARD H. BERNSTEIN" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-richard-bernstein/" cert="high" role="jud" type="real">BERNSTEIN</persName>, <persName key="Elizabeth M. Welch" ref="http://www.wikidata.org/entity/Q102027631" role="jud">WELCH</persName>, and <persName key="KYRA H. BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud">BOLDEN</persName>, the <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Supreme Court</orgName> held:</p><p>A former member of a same-sex couple seeking custody of a child to whom they did not give birth and with whom they share no genetic connection is entitled to make their case for equitable parenthood and thus establish standing to bring an action under the CCA. To do so, the plaintiff must demonstrate by a preponderance of the evidence that the parties would have married before the child’s conception or birth but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s unconstitutional marriage ban. When determining whether a plaintiff satisfies this standard, courts should consider the nondispositive factors set forth in In re Madrone, 271 or App 116 (<date when="2015" cert="high">2015</date>). The <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName> judgment was reversed and the case remanded to the trial court to apply this threshold test. To the extent that Lake v Putnam, 316 Mich App 247<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5c3db94e342cca5c89f06519"/>Lake v. Putnam</bibl></note> (<date when="2016">2016</date>), was inconsistent with the Court’s opinion, it was overruled.</p><p>1. Under the equitable-parent doctrine, a spouse who is not a biological parent has standingto seek custody of a child born or conceived during their marriage when (1) the would-be equitableparent and the child acknowledge the parental relationship or the biological or adoptive parent has cultivated the development of a relationship over a period of time, (2) the would-be equitable parent desires to have the rights afforded a parent, and (3) the would-be equitable parent is willing to pay child support. Before <date when="2015" cert="high">2015</date>, <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> unconstitutionally prohibited same-sex couples from marrying and refused to recognize legal marriages performed in other jurisdictions. Consequently, a same-sex partner did not have the option to adopt their spouse’s child or to marry their pregnant partner and benefit from the marital presumption of parentage. Further, unmarried same-sex couples were not permitted to adopt through second-parent adoption. Obergefell rendered <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s unconstitutional bar on same-sex marriage unenforceable, holding that the denial of the ability to marry was a denial of same-sex couples’ constitutional due-process and equal-protection rights. Obergefell noted generally the importance of the various benefits that the stateshave connected to marriage, referred to as the “constellation of benefits,” and specifically emphasized the harm that the unconstitutional prohibition on marriage caused the children of same-sex couples. Recognition of equitable parenthood is one of the “constellation of benefits” associated with marriage in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, and, as a matter of equity and constitutional law, <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> courts are compelled to treat same-sex couples equally. Accordingly, Obergefell demanded theextension of the equitable-parent doctrine to those who were unable to marry during their same-sex relationships because of discriminatory and unconstitutional <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName> laws but who developed de facto parent-child relationships with the children born or adopted by their same-sex partners during the time they would have otherwise been married. This extension served the underlying rationale of the equitable-parent doctrine, which considers the best interests of the child to be paramount, and it was consistent with recent developments in the law recognizing that federal and state law protects people from discrimination on the basis of sexual orientation. It was not necessary to overrule Van, which involved parties who chose not to legally marry despite their ability to do so. However, it was necessary to overrule Lake, which had declined to extend the equitable-parent doctrine to same-sex couples who had previously been unable to marry, to the extent it was inconsistent with the Court’s holding. Lake’s concern about retroactively andunilaterally creating a marriage relationship against the parties’ wishes was remedied by requiring the person seeking custody to show, by a preponderance of the evidence, that the parties would have married had they been legally permitted to do so in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>. In light of the conclusion thatplaintiff may pursue standing as an equitable parent, her alternative claims were not addressed.</p><p>2. A would-be equitable parent has standing if they demonstrate by the preponderance of the evidence that the parties would have married before the child’s birth or conception but for the unconstitutional laws that prevented them from doing so. This approach is based on Madrone, which crafted a factual inquiry to be applied when extending the presumption of parentage in its artificial-insemination statute to same-sex partners of biological mothers. Madrone concluded that the proper focus was on whether the parties would have married but for the previous unconstitutional state prohibition on same-sex marriage, which involved a contemporaneous inquiry concerning the mutual intent of the parties. The relevant factors it concluded would support an inference that same-sex partners would have married but for the prior unconstitutional bar included whether the couple took advantage of other options giving legal recognition to their relationship, held each other out as or considered themselves to be spouses, had children during the relationship and shared childrearing responsibilities, held a commitment ceremony or otherwise exchanged vows of commitment, exchanged rings, shared a last name, commingled their assets and finances, made significant financial decisions together, sought to adopt any children either of them may have had before the relationship began, or attempted unsuccessfully to getmarried. The <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342">Supreme Court</orgName> adopted this approach and held that in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, if the intent tomarry is disputed, a would-be equitable parent must prove by a preponderance of the evidence thatthe couple would have married based on their contemporaneous conduct, considering the illustrative but nondispositive and nonexhaustive factors set forth in Madrone. If that threshold test for standing is satisfied, the court may evaluate the equitable-parent factors to determine whether the would-be equitable parent has standing to seek custody and parenting time.</p><p>3. Plaintiff made a sufficient showing to survive summary disposition under MCR2.116(C)(8)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note> on standing grounds. In particular, plaintiff’s allegations that she cultivated thedevelopment of a relationship with the child over a period of time, desires to have parental rights,and is willing to pay child support are sufficient to advance her claim for equitable parenthood. Plaintiff also alleged facts entitling her to a threshold determination of whether the parties would have married but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>’s unconstitutional bar on same-sex marriage.</p><p><orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName> judgment reversed; case remanded to the trial court for further proceedings.</p><p>2. A would-be equitable parent has standing if they demonstrate by the preponderance ofthe evidence that the parties would have married before the child’s birth or conception but for the unconstitutional laws that prevented them from doing so. This approach is based on Madrone, which crafted a factual inquiry to be applied when extending the presumption of parentage in its artificial-insemination statute to same-sex partners of biological mothers. Madrone concluded that the proper focus was on whether the parties would have married but for the previous unconstitutional state prohibition on same-sex marriage, which involved a contemporaneous inquiry concerning the mutual intent of the parties. The relevant factors it concluded would support an inference that same-sex partners would have married but for the prior unconstitutional bar included whether the couple took advantage of other options giving legal recognition to their relationship, held each other out as or considered themselves to be spouses, had children during the relationship and shared childrearing responsibilities, held a commitment ceremony orotherwise exchanged vows of commitment, exchanged rings, shared a last name, commingled their assets and finances, made significant financial decisions together, sought to adopt any children either of them may have had before the relationship began, or attempted unsuccessfully to get married. The Supreme Court adopted this approach and held that in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, if the intent tomarry is disputed, a would-be equitable parent must prove by a preponderance of the evidence that the couple would have married based on their contemporaneous conduct, considering the illustrative but nondispositive and nonexhaustive factors set forth in Madrone. If that threshold test for standing is satisfied, the court may evaluate the equitable-parent factors to determine whether the would-be equitable parent has standing to seek custody and parenting time.3. Plaintiff made a sufficient showing to survive summary disposition under MCR2.116(C)(8) on standing grounds. In particular, plaintiff’s allegations that she cultivated the development of a relationship with the child over a period of time, desires to have parental rights, and is willing to pay child support are sufficient to advance her claim for equitable parenthood. Plaintiff also alleged facts entitling her to a threshold determination of whether the parties would have married but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>’s unconstitutional bar on same-sex marriage.</p><p><orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507" cert="high">Court of Appeals</orgName> judgment reversed; case remanded to the trial court for further proceedings.</p><p>Justice <persName key="KYRA H. BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" cert="high" role="jud" type="real">BOLDEN</persName>, concurring, wrote separately to note that because many state laws relating to marriage, out-of-wedlock parenting, and reproductive technologies had been enacted without consideration of Obergefell, the Legislature should act to resolve the lingering puzzles that remained regarding how the current applicable statutory schemes could fit the practical realities of same-sex relationships with regard to parenting. In particular, she stated that, aside from the question whether the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> should address the equitable-parent doctrine, it should clarify ambiguities in the CCA, which says nothing about biology or marriage and contains an unclear definition of “natural parent.” She echoed former Justice KELLY ’s observation in Van that, incustody disputes, the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName>’s overriding concern has not been the preservation of the institution of marriage, but rather the best interests of the children, and she suggested that the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> consider amending the CCA for consistency with this priority in mind. She also suggested that the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273">Legislature</orgName> consider whether to enact a formal procedure to address situations like plaintiff’s. In sum, she urged the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273">Legislature</orgName> to answer the questions raised by this case regarding children born to same-sex couples by enacting a sufficient statutory scheme that would adequately reflect equal-protection and due-process considerations.</p><p>Justice <persName key="Brian K. Zahra" ref="http://www.wikidata.org/entity/Q4964273" role="jud">ZAHRA</persName> , joined by Justice <persName key="DAVID F. VIVIANO" ref="https://en.wikipedia.org/wiki/David_Viviano" cert="high" role="jud" type="real">VIVIANO</persName>, dissenting, disagreed with the extension of the equitable-parent doctrine. He questioned the validity of the doctrine, expressed concern that its legally unsupported extension would result in far-reaching ramifications outside the child custody context, and did not believe it was an appropriate tool to provide plaintiff the relief she sought. He also questioned the advisability of the “but for” test set forth by the majority and worried that itwould be applied too broadly. Finally, he emphasized that plaintiff’s remedy rested with the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> rather than the judiciary. For these reasons, he would have declined to disturb the lower courts’ decisions.</p><p/></div>
+				<p/><p/><p><orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Michigan Supreme Court</orgName></p><p><placeName key="Lansing" ref="http://www.wikidata.org/entity/Q28237" cert="high">Lansing, Michigan<precision match="@ref" precision="high"/></placeName></p><p/><p/><p>Chief Justice:</p><p/><p><persName key="Elizabeth T. Clement" ref="http://www.wikidata.org/entity/Q43302902" cert="high" role="jud" type="real">Elizabeth T. Clement</persName></p><p/><p/><p>Justices: </p><p><persName key="Brian K. Zahra" ref="http://www.wikidata.org/entity/Q4964273" role="jud">Brian K. Zahra</persName></p><p><persName key="David F. Viviano" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-david-f.-viviano/" cert="high" role="jud" type="real">David F. Viviano</persName></p><p><persName key="Richard H. Bernstein" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-richard-bernstein/" role="jud">Richard H. Bernstein</persName></p><p><persName key="Megan K. Cavanagh" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" cert="high" role="jud" type="real">Megan K. Cavanagh</persName></p><p><persName key="Elizabeth M. Welch" ref="http://www.wikidata.org/entity/Q102027631" role="jud">Elizabeth M. Welch</persName></p><p><persName key="Kyra H. Bolden" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud" type="real">Kyra H. Bolden</persName></p><p/><p/><p>This syllabus constitutes no part of the opinion of the <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342">Court</orgName> but has been prepared by the Reporter of Decisions for the convenience of the reader.</p><p/><p/><p>Reporter of Decisions: </p><p><persName key="Kathryn L. Loomis" ref="https://www.courts.michigan.gov/4a8a44/siteassets/news-releases/kathryn-loomis-reporter-of-decisions.pdf" cert="medium" role="rpt">Kathryn L. Loomis</persName></p><p/><p/><p>PUEBLO v. HAAS</p><p/><p/><p>Docket No. 164046. Argued <date when="2023-04-04" cert="high">April 4, 2023</date> (Calendar No. 3). Decided <date when="2023-07-24">July 24, 2023</date>.</p><p/><p/><p><persName key="Carrie Pueblo" ref="https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/" cert="high" role="ptt" type="real">Carrie Pueblo</persName> brought an action against her former domestic partner, <persName key="Rachel Haas" ref="https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/" role="dfe">Rachel Haas</persName>, in the <orgName key="Kalamazoo Circuit Court" ref="https://www.kalcounty.com/courts/circuit/" cert="high"><placeName key="Kalamazoo" ref="http://www.wikidata.org/entity/Q167155">Kalamazoo</placeName> Circuit Court</orgName> under the Child Custody Act (CCA)<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf"/><bibl><bibl/></bibl></bibl></note>, MCL 722.21 et seq.<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21"/>Child Custody Act of 1970, Section 1:  This act shall be known and may be cited as the "child custody act of 1970". </bibl></note>, seeking joint custody and parenting time for a child whom defendant conceived through in vitro fertilization and gave birth to in <date when="2008" cert="high">2008</date>, during the parties’ relationship. Defendant moved for summary disposition under MCR 2.116(C)(5)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (5) The party asserting the claim lacks the legal capacity to sue.</bibl></note> and MCR 2.116(C)(8)<note exclude="C" type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note>, asserting that because the parties had never married and plaintiff had no biological or adoptive relationship to the child, plaintiff lacked standing to sue and also failed to state a claim for which relief could be granted. Following a hearing, the trial court, <persName key="Stephen D. Gorsalitz" ref="https://ballotpedia.org/Stephen_Gorsalitz" cert="high" role="jud" type="real">Stephen D. Gorsalitz</persName>, J., granted the motion and dismissed the case without prejudice. After defendant moved for reconsideration, the trial court dismissed the action with prejudice. Plaintiff then filed her own motion for reconsideration, arguing that she had standing as a natural parent, despite the lack of genetic connection, following the <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507" cert="high">Court of Appeals</orgName> decision in LeFever v Matthews, 336 Mich App 651 (<date when="2021">2021</date>), which expanded the definition of “natural parent” to include unmarried women who gave birth as surrogates but shared no genetic connection with the children. Plaintiff also asserted that the trial court order violated her Fourteenth Amendment rights to due process and equal protection, as well as those of the child. Plaintiff further argued that any dismissal should have been without prejudice. The trial court denied reconsideration, distinguishing LeFever on the ground that plaintiff had not given birth to the child. Plaintiff appealed, reasserting her previous arguments and further asserting that the equitable-parent doctrine should extend to the parties’ relationship, which had been solemnized in a civil commitment ceremony when it was not yet legal in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> for same-sex partners to marry. The <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName>, <persName key="MICHAEL F. GADOLA" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/fourth-district-judges/" role="jud">GADOLA</persName>, P.J.<note type="annotation">Presiding Justice</note>, and <persName key="BROCK A. SWARTZLE" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/fourth-district-judges/" cert="high" role="jud" type="real">SWARTZLE</persName> and <persName key="THOMAS C. CAMERON" ref="https://www.courts.michigan.gov/courts/court-of-appeals/judges/current-judges/first-district-judges/" cert="medium" role="jud">CAMERON</persName>, JJ.<note>Justices</note>, rejected these arguments and affirmed the trial court in an unpublished per curiam opinion of the <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName>, issued <date when="2021-12-28" cert="high">December 28, 2021</date> (Docket No. 357577<note type="citation"><bibl><ref target="https://casetext.com/case/pueblo-v-haas"/>Pueblo v. Haas</bibl></note>). The <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Supreme Court</orgName> granted plaintiff’s application forleave to appeal, asking whether and to what extent the equitable-parent doctrine should be extended to provide standing under the CCA to plaintiff and those similarly situated in light of Obergefell v Hodges, 576 US 644 (<date when="2015">2015</date>), which invalidated <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s prohibitions on same-sex marriage. 510 Mich 936<note type="citation"><bibl><ref target="https://case-law.vlex.com/vid/pueblo-v-haas-sc-939753545"/>Pueblo v. Haas</bibl></note> (<date when="2022">2022</date>).</p><p>In an opinion by Justice <persName key="MEGAN K. CAVANAGH" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" cert="high" role="jud" type="real">CAVANAGH</persName> , joined by Chief Justice <persName key="Elizabeth T. Clement" ref="http://www.wikidata.org/entity/Q43302902" role="jud">CLEMENT</persName> and Justices <persName key="RICHARD H. BERNSTEIN" ref="https://www.courts.michigan.gov/courts/supreme-court/justices/justice-richard-bernstein/" cert="high" role="jud" type="real">BERNSTEIN</persName>, <persName key="Elizabeth M. Welch" ref="http://www.wikidata.org/entity/Q102027631" role="jud">WELCH</persName>, and <persName key="KYRA H. BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud">BOLDEN</persName>, the <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Supreme Court</orgName> held:</p><p>A former member of a same-sex couple seeking custody of a child to whom they did not give birth and with whom they share no genetic connection is entitled to make their case for equitable parenthood and thus establish standing to bring an action under the CCA. To do so, the plaintiff must demonstrate by a preponderance of the evidence that the parties would have married before the child’s conception or birth but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s unconstitutional marriage ban. When determining whether a plaintiff satisfies this standard, courts should consider the nondispositive factors set forth in In re Madrone, 271 or App 116 (<date when="2015" cert="high">2015</date>). The <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName> judgment was reversed and the case remanded to the trial court to apply this threshold test. To the extent that Lake v Putnam, 316 Mich App 247<note type="citation"><bibl><ref target="https://www.casemine.com/judgement/us/5c3db94e342cca5c89f06519"/>Lake v. Putnam</bibl></note> (<date when="2016">2016</date>), was inconsistent with the Court’s opinion, it was overruled.</p><p>1. Under the equitable-parent doctrine, a spouse who is not a biological parent has standingto seek custody of a child born or conceived during their marriage when (1) the would-be equitableparent and the child acknowledge the parental relationship or the biological or adoptive parent has cultivated the development of a relationship over a period of time, (2) the would-be equitable parent desires to have the rights afforded a parent, and (3) the would-be equitable parent is willing to pay child support. Before <date when="2015" cert="high">2015</date>, <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> unconstitutionally prohibited same-sex couples from marrying and refused to recognize legal marriages performed in other jurisdictions. Consequently, a same-sex partner did not have the option to adopt their spouse’s child or to marry their pregnant partner and benefit from the marital presumption of parentage. Further, unmarried same-sex couples were not permitted to adopt through second-parent adoption. Obergefell rendered <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s unconstitutional bar on same-sex marriage unenforceable, holding that the denial of the ability to marry was a denial of same-sex couples’ constitutional due-process and equal-protection rights. Obergefell noted generally the importance of the various benefits that the stateshave connected to marriage, referred to as the “constellation of benefits,” and specifically emphasized the harm that the unconstitutional prohibition on marriage caused the children of same-sex couples. Recognition of equitable parenthood is one of the “constellation of benefits” associated with marriage in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, and, as a matter of equity and constitutional law, <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName> courts are compelled to treat same-sex couples equally. Accordingly, Obergefell demanded theextension of the equitable-parent doctrine to those who were unable to marry during their same-sex relationships because of discriminatory and unconstitutional <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName> laws but who developed de facto parent-child relationships with the children born or adopted by their same-sex partners during the time they would have otherwise been married. This extension served the underlying rationale of the equitable-parent doctrine, which considers the best interests of the child to be paramount, and it was consistent with recent developments in the law recognizing that federal and state law protects people from discrimination on the basis of sexual orientation. It was not necessary to overrule Van, which involved parties who chose not to legally marry despite their ability to do so. However, it was necessary to overrule Lake, which had declined to extend the equitable-parent doctrine to same-sex couples who had previously been unable to marry, to the extent it was inconsistent with the Court’s holding. Lake’s concern about retroactively andunilaterally creating a marriage relationship against the parties’ wishes was remedied by requiring the person seeking custody to show, by a preponderance of the evidence, that the parties would have married had they been legally permitted to do so in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>. In light of the conclusion thatplaintiff may pursue standing as an equitable parent, her alternative claims were not addressed.</p><p>2. A would-be equitable parent has standing if they demonstrate by the preponderance of the evidence that the parties would have married before the child’s birth or conception but for the unconstitutional laws that prevented them from doing so. This approach is based on Madrone, which crafted a factual inquiry to be applied when extending the presumption of parentage in its artificial-insemination statute to same-sex partners of biological mothers. Madrone concluded that the proper focus was on whether the parties would have married but for the previous unconstitutional state prohibition on same-sex marriage, which involved a contemporaneous inquiry concerning the mutual intent of the parties. The relevant factors it concluded would support an inference that same-sex partners would have married but for the prior unconstitutional bar included whether the couple took advantage of other options giving legal recognition to their relationship, held each other out as or considered themselves to be spouses, had children during the relationship and shared childrearing responsibilities, held a commitment ceremony or otherwise exchanged vows of commitment, exchanged rings, shared a last name, commingled their assets and finances, made significant financial decisions together, sought to adopt any children either of them may have had before the relationship began, or attempted unsuccessfully to getmarried. The <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342">Supreme Court</orgName> adopted this approach and held that in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, if the intent tomarry is disputed, a would-be equitable parent must prove by a preponderance of the evidence thatthe couple would have married based on their contemporaneous conduct, considering the illustrative but nondispositive and nonexhaustive factors set forth in Madrone. If that threshold test for standing is satisfied, the court may evaluate the equitable-parent factors to determine whether the would-be equitable parent has standing to seek custody and parenting time.</p><p>3. Plaintiff made a sufficient showing to survive summary disposition under MCR2.116(C)(8)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note> on standing grounds. In particular, plaintiff’s allegations that she cultivated thedevelopment of a relationship with the child over a period of time, desires to have parental rights,and is willing to pay child support are sufficient to advance her claim for equitable parenthood. Plaintiff also alleged facts entitling her to a threshold determination of whether the parties would have married but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>’s unconstitutional bar on same-sex marriage.</p><p><orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName> judgment reversed; case remanded to the trial court for further proceedings.</p><p>2. A would-be equitable parent has standing if they demonstrate by the preponderance ofthe evidence that the parties would have married before the child’s birth or conception but for the unconstitutional laws that prevented them from doing so. This approach is based on Madrone, which crafted a factual inquiry to be applied when extending the presumption of parentage in its artificial-insemination statute to same-sex partners of biological mothers. Madrone concluded that the proper focus was on whether the parties would have married but for the previous unconstitutional state prohibition on same-sex marriage, which involved a contemporaneous inquiry concerning the mutual intent of the parties. The relevant factors it concluded would support an inference that same-sex partners would have married but for the prior unconstitutional bar included whether the couple took advantage of other options giving legal recognition to their relationship, held each other out as or considered themselves to be spouses, had children during the relationship and shared childrearing responsibilities, held a commitment ceremony orotherwise exchanged vows of commitment, exchanged rings, shared a last name, commingled their assets and finances, made significant financial decisions together, sought to adopt any children either of them may have had before the relationship began, or attempted unsuccessfully to get married. The Supreme Court adopted this approach and held that in <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, if the intent tomarry is disputed, a would-be equitable parent must prove by a preponderance of the evidence that the couple would have married based on their contemporaneous conduct, considering the illustrative but nondispositive and nonexhaustive factors set forth in Madrone. If that threshold test for standing is satisfied, the court may evaluate the equitable-parent factors to determine whether the would-be equitable parent has standing to seek custody and parenting time.3. Plaintiff made a sufficient showing to survive summary disposition under MCR2.116(C)(8) on standing grounds. In particular, plaintiff’s allegations that she cultivated the development of a relationship with the child over a period of time, desires to have parental rights, and is willing to pay child support are sufficient to advance her claim for equitable parenthood. Plaintiff also alleged facts entitling her to a threshold determination of whether the parties would have married but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166">Michigan</placeName>’s unconstitutional bar on same-sex marriage.</p><p><orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507" cert="high">Court of Appeals</orgName> judgment reversed; case remanded to the trial court for further proceedings.</p><p>Justice <persName key="KYRA H. BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" cert="high" role="jud" type="real">BOLDEN</persName>, concurring, wrote separately to note that because many state laws relating to marriage, out-of-wedlock parenting, and reproductive technologies had been enacted without consideration of Obergefell, the Legislature should act to resolve the lingering puzzles that remained regarding how the current applicable statutory schemes could fit the practical realities of same-sex relationships with regard to parenting. In particular, she stated that, aside from the question whether the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> should address the equitable-parent doctrine, it should clarify ambiguities in the CCA, which says nothing about biology or marriage and contains an unclear definition of “natural parent.” She echoed former Justice KELLY ’s observation in Van that, incustody disputes, the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName>’s overriding concern has not been the preservation of the institution of marriage, but rather the best interests of the children, and she suggested that the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> consider amending the CCA for consistency with this priority in mind. She also suggested that the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273">Legislature</orgName> consider whether to enact a formal procedure to address situations like plaintiff’s. In sum, she urged the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273">Legislature</orgName> to answer the questions raised by this case regarding children born to same-sex couples by enacting a sufficient statutory scheme that would adequately reflect equal-protection and due-process considerations.</p><p>Justice <persName key="Brian K. Zahra" ref="http://www.wikidata.org/entity/Q4964273" role="jud">ZAHRA</persName> , joined by Justice <persName key="DAVID F. VIVIANO" ref="https://en.wikipedia.org/wiki/David_Viviano" cert="high" role="jud" type="real">VIVIANO</persName>, dissenting, disagreed with the extension of the equitable-parent doctrine. He questioned the validity of the doctrine, expressed concern that its legally unsupported extension would result in far-reaching ramifications outside the child custody context, and did not believe it was an appropriate tool to provide plaintiff the relief she sought. He also questioned the advisability of the “but for” test set forth by the majority and worried that itwould be applied too broadly. Finally, he emphasized that plaintiff’s remedy rested with the <orgName key="Michigan Legislature" ref="http://www.wikidata.org/entity/Q3270273" cert="high">Legislature</orgName> rather than the judiciary. For these reasons, he would have declined to disturb the lower courts’ decisions.</p><p/></div>
 		</body>
 	</text>
 </TEI>
