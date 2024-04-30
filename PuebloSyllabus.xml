@@ -3924,6 +3924,13 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235451470",
 			"cito:hasCitedEntity": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235451470#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240429235451470",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -4194,6 +4201,13 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000319061",
 			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000319061#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000319061",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -4275,6 +4289,13 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (5) The party asserting the claim lacks the legal capacity to sue."
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000527147#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000527147",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430000527147#Cites",
@@ -4789,6 +4810,13 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted."
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001635236#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001635236",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430001635236#Cites",
@@ -6743,6 +6771,13 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Michigan Child Custody Act (CCA)"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121138726#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121138726",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/PuebloSyllabus.xml?citation_annotation_20240430121138726#Cites",
