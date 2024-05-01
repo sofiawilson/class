@@ -47,10 +47,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163058308",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163058308",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:30:58.308Z",
-	"dcterms:modified": "2024-04-30T20:30:58.308Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -61,9 +60,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163058308#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163058308#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -74,7 +74,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163058308#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163058308#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[2]/placeName"
 		}
@@ -127,10 +127,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163141669",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163141669",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:31:41.669Z",
-	"dcterms:modified": "2024-04-30T20:31:41.669Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -141,9 +140,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163141669#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163141669#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -154,7 +154,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163141669#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163141669#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/placeName"
 		}
@@ -205,10 +205,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163155223",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163155223",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:31:55.223Z",
-	"dcterms:modified": "2024-04-30T20:31:55.223Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -219,9 +218,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163155223#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163155223#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -232,7 +232,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163155223#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163155223#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/placeName[2]"
 		}
@@ -285,10 +285,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163206981",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163206981",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:32:06.981Z",
-	"dcterms:modified": "2024-04-30T20:32:06.981Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -299,9 +298,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163206981#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163206981#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -312,7 +312,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163206981#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163206981#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[25]/placeName"
 		}
@@ -363,10 +363,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163220164",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163220164",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:32:20.164Z",
-	"dcterms:modified": "2024-04-30T20:32:20.164Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -377,9 +376,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163220164#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163220164#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -390,7 +390,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163220164#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163220164#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[26]/placeName"
 		}
@@ -443,10 +443,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163232576",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163232576",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:32:32.576Z",
-	"dcterms:modified": "2024-04-30T20:32:32.576Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -457,9 +456,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163232576#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163232576#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -470,7 +470,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163232576#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163232576#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[26]/placeName[2]"
 		}
@@ -521,10 +521,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163311410",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163311410",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:33:11.410Z",
-	"dcterms:modified": "2024-04-30T20:33:11.410Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -535,9 +534,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163311410#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163311410#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -548,7 +548,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163311410#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163311410#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[26]/placeName[3]"
 		}
@@ -601,10 +601,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163321096",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163321096",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:33:21.096Z",
-	"dcterms:modified": "2024-04-30T20:33:21.096Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -615,9 +614,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163321096#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163321096#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -628,7 +628,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163321096#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163321096#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[26]/placeName[4]"
 		}
@@ -679,10 +679,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163331685",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163331685",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:33:31.685Z",
-	"dcterms:modified": "2024-04-30T20:33:31.685Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -693,9 +692,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163331685#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163331685#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -706,7 +706,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163331685#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163331685#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[26]/placeName[5]"
 		}
@@ -759,10 +759,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163345065",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163345065",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:33:45.065Z",
-	"dcterms:modified": "2024-04-30T20:33:45.065Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -773,9 +772,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163345065#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163345065#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -786,7 +786,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163345065#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163345065#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[26]/placeName[6]"
 		}
@@ -837,10 +837,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163410052",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163410052",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:34:10.052Z",
-	"dcterms:modified": "2024-04-30T20:34:10.052Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -851,9 +850,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163410052#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163410052#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -864,7 +864,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163410052#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163410052#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[28]/placeName"
 		}
@@ -915,10 +915,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163434560",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163434560",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:34:34.560Z",
-	"dcterms:modified": "2024-04-30T20:34:34.560Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -929,9 +928,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163434560#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163434560#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -942,7 +942,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163434560#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430163434560#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/placeName"
 		}
@@ -995,168 +995,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430163446747",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T20:34:46.747Z",
-	"dcterms:modified": "2024-04-30T20:34:46.747Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/sofiawilson",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Sofia"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163446747#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163446747#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[32]/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://dbpedia.org/resource/Michigan",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "undefined?place_annotation_20240430163457257",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T20:34:57.257Z",
-	"dcterms:modified": "2024-04-30T20:34:57.257Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/sofiawilson",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Sofia"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430163457257#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430163457257#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[33]/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://dbpedia.org/resource/Michigan",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	},
-	"cwrc:hasCertainty": "cwrc:high",
-	"cwrc:hasPrecision": "cwrc:highCertainty"
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "undefined?date_annotation_20240430163557894",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163557894",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:35:57.894Z",
-	"dcterms:modified": "2024-04-30T20:35:57.894Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1167,9 +1008,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240430163557894#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163557894#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1180,7 +1022,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240430163557894#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163557894#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[22]/date"
 		}
@@ -1230,10 +1072,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20240430163617355",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163617355",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:36:17.355Z",
-	"dcterms:modified": "2024-04-30T20:36:17.355Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1244,9 +1085,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240430163617355#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163617355#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1257,7 +1099,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240430163617355#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163617355#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[22]/date[2]"
 		}
@@ -1307,10 +1149,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20240430163631526",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163631526",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:36:31.526Z",
-	"dcterms:modified": "2024-04-30T20:36:31.526Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1321,9 +1162,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240430163631526#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163631526#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1334,7 +1176,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240430163631526#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163631526#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/date[2]"
 		}
@@ -1384,10 +1226,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20240430163710953",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163710953",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:37:10.953Z",
-	"dcterms:modified": "2024-04-30T20:37:10.953Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1398,9 +1239,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240430163710953#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163710953#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1411,7 +1253,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240430163710953#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163710953#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/date"
 		}
@@ -1461,10 +1303,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20240430163734531",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163734531",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:37:34.531Z",
-	"dcterms:modified": "2024-04-30T20:37:34.531Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1475,9 +1316,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240430163734531#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163734531#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1488,7 +1330,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240430163734531#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163734531#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/date[3]"
 		}
@@ -1538,10 +1380,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20240430163742768",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163742768",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:37:42.768Z",
-	"dcterms:modified": "2024-04-30T20:37:42.768Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1552,9 +1393,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240430163742768#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163742768#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1565,7 +1407,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240430163742768#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163742768#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/date[5]"
 		}
@@ -1615,10 +1457,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20240430163750076",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163750076",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:37:50.076Z",
-	"dcterms:modified": "2024-04-30T20:37:50.076Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1629,9 +1470,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240430163750076#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163750076#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1642,7 +1484,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240430163750076#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163750076#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/date[4]"
 		}
@@ -1692,10 +1534,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20240430163809199",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163809199",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:38:09.199Z",
-	"dcterms:modified": "2024-04-30T20:38:09.199Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1706,9 +1547,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240430163809199#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163809199#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1719,7 +1561,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240430163809199#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163809199#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[25]/date"
 		}
@@ -1769,10 +1611,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20240430163817773",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163817773",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:38:17.773Z",
-	"dcterms:modified": "2024-04-30T20:38:17.773Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1783,9 +1624,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240430163817773#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163817773#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1796,7 +1638,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240430163817773#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163817773#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[25]/date[2]"
 		}
@@ -1846,10 +1688,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20240430163827530",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163827530",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:38:27.530Z",
-	"dcterms:modified": "2024-04-30T20:38:27.530Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1860,9 +1701,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20240430163827530#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163827530#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1873,7 +1715,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20240430163827530#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?date_annotation_20240430163827530#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[26]/date"
 		}
@@ -1923,10 +1765,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430164728490",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430164728490",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:47:28.490Z",
-	"dcterms:modified": "2024-04-30T20:47:28.490Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -1937,9 +1778,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430164728490#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430164728490#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1950,7 +1792,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430164728490#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430164728490#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/orgName"
 		}
@@ -2002,10 +1844,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430164751993",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430164751993",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:47:51.993Z",
-	"dcterms:modified": "2024-04-30T20:47:51.993Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2016,9 +1857,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430164751993#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430164751993#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2029,7 +1871,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430164751993#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430164751993#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[15]/orgName"
 		}
@@ -2080,10 +1922,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430165023061",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165023061",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:50:23.061Z",
-	"dcterms:modified": "2024-04-30T20:50:23.061Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2094,9 +1935,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430165023061#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165023061#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2107,7 +1949,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430165023061#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165023061#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/orgName"
 		}
@@ -2159,10 +2001,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240430165036064",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430165036064",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:50:36.064Z",
-	"dcterms:modified": "2024-04-30T20:50:36.064Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2173,9 +2014,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240430165036064#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430165036064#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2186,7 +2028,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240430165036064#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?place_annotation_20240430165036064#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/orgName/placeName"
 		}
@@ -2237,10 +2079,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430165324356",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165324356",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:53:24.356Z",
-	"dcterms:modified": "2024-04-30T20:53:24.356Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2251,9 +2092,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430165324356#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165324356#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2264,7 +2106,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430165324356#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165324356#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/orgName[4]"
 		}
@@ -2315,10 +2157,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430165449561",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165449561",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:54:49.561Z",
-	"dcterms:modified": "2024-04-30T20:54:49.561Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2329,9 +2170,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430165449561#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165449561#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2342,7 +2184,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430165449561#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165449561#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/orgName[5]"
 		}
@@ -2394,10 +2236,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430165527916",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165527916",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:55:27.916Z",
-	"dcterms:modified": "2024-04-30T20:55:27.916Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2408,9 +2249,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430165527916#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165527916#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2421,7 +2263,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430165527916#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165527916#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/orgName[2]"
 		}
@@ -2473,10 +2315,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430165807827",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165807827",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:58:07.827Z",
-	"dcterms:modified": "2024-04-30T20:58:07.827Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2487,9 +2328,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430165807827#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165807827#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2500,7 +2342,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430165807827#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165807827#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/orgName[6]"
 		}
@@ -2551,10 +2393,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430165830477",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165830477",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T20:58:30.477Z",
-	"dcterms:modified": "2024-04-30T20:58:30.477Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2565,9 +2406,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430165830477#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165830477#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2578,7 +2420,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430165830477#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430165830477#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/orgName[7]"
 		}
@@ -2630,10 +2472,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430172219496",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430172219496",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T21:22:19.496Z",
-	"dcterms:modified": "2024-04-30T21:22:19.496Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2644,9 +2485,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430172219496#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430172219496#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2657,7 +2499,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430172219496#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430172219496#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/orgName[3]"
 		}
@@ -2708,10 +2550,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430172253899",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430172253899",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T21:22:53.899Z",
-	"dcterms:modified": "2024-04-30T21:22:53.899Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2722,9 +2563,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430172253899#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430172253899#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2735,7 +2577,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430172253899#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430172253899#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[25]/orgName"
 		}
@@ -2787,10 +2629,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430172357929",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430172357929",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T21:23:57.929Z",
-	"dcterms:modified": "2024-04-30T21:23:57.929Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2801,9 +2642,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430172357929#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430172357929#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2814,7 +2656,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430172357929#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430172357929#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[30]/orgName"
 		}
@@ -2865,10 +2707,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430172904267",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430172904267",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T21:29:04.267Z",
-	"dcterms:modified": "2024-04-30T21:29:04.267Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2879,9 +2720,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430172904267#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430172904267#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2892,7 +2734,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430172904267#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430172904267#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[5]/persName"
 		}
@@ -2944,87 +2786,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430172914587",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T21:29:14.587Z",
-	"dcterms:modified": "2024-04-30T21:29:14.587Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/sofiawilson",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Sofia"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430172914587#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430172914587#Selector",
-			"@type": "oa:XPathSelector"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q4964273",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "undefined?person_annotation_20240430173008864",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173008864",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T21:30:08.864Z",
-	"dcterms:modified": "2024-04-30T21:30:08.864Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3035,9 +2799,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430173008864#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173008864#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3048,7 +2813,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430173008864#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173008864#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[8]/persName"
 		}
@@ -3100,10 +2865,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430173102234",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173102234",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T21:31:02.234Z",
-	"dcterms:modified": "2024-04-30T21:31:02.234Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3114,9 +2878,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430173102234#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173102234#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3127,7 +2892,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430173102234#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173102234#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/persName"
 		}
@@ -3178,10 +2943,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430173242190",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173242190",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T21:32:42.190Z",
-	"dcterms:modified": "2024-04-30T21:32:42.190Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3192,9 +2956,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430173242190#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173242190#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3205,7 +2970,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430173242190#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173242190#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[24]/persName[2]"
 		}
@@ -3257,10 +3022,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430173426457",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173426457",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T21:34:26.457Z",
-	"dcterms:modified": "2024-04-30T21:34:26.457Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3271,9 +3035,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430173426457#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173426457#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3284,7 +3049,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430173426457#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173426457#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[32]/persName"
 		}
@@ -3335,10 +3100,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430174422988",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430174422988",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T21:44:22.988Z",
-	"dcterms:modified": "2024-04-30T21:44:22.988Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3349,9 +3113,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430174422988#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430174422988#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3362,7 +3127,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430174422988#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430174422988#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[32]/persName[2]"
 		}
@@ -3414,10 +3179,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430174512134",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430174512134",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T21:45:12.134Z",
-	"dcterms:modified": "2024-04-30T21:45:12.134Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3428,9 +3192,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430174512134#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430174512134#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3441,7 +3206,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430174512134#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430174512134#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[10]/persName"
 		}
@@ -3492,10 +3257,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430174537230",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430174537230",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T21:45:37.230Z",
-	"dcterms:modified": "2024-04-30T21:45:37.230Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3506,9 +3270,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430174537230#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430174537230#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3519,7 +3284,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430174537230#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430174537230#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[24]/persName[3]"
 		}
@@ -3571,10 +3336,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430182519725",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182519725",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:25:19.725Z",
-	"dcterms:modified": "2024-04-30T22:25:19.725Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3585,9 +3349,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430182519725#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182519725#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3598,7 +3363,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430182519725#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182519725#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[11]/persName"
 		}
@@ -3649,10 +3414,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430182553986",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182553986",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:25:53.986Z",
-	"dcterms:modified": "2024-04-30T22:25:53.986Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3663,9 +3427,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430182553986#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182553986#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3676,7 +3441,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430182553986#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182553986#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[24]/persName"
 		}
@@ -3728,10 +3493,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430182640487",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182640487",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:26:40.487Z",
-	"dcterms:modified": "2024-04-30T22:26:40.487Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3742,9 +3506,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430182640487#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182640487#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3755,7 +3520,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430182640487#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182640487#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[12]/persName"
 		}
@@ -3806,10 +3571,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430182719492",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182719492",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:27:19.492Z",
-	"dcterms:modified": "2024-04-30T22:27:19.492Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3820,9 +3584,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430182719492#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182719492#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3833,7 +3598,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430182719492#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182719492#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[24]/persName[4]"
 		}
@@ -3885,10 +3650,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430182839129",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182839129",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:28:39.129Z",
-	"dcterms:modified": "2024-04-30T22:28:39.129Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3899,9 +3663,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430182839129#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182839129#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3912,7 +3677,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430182839129#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182839129#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[13]/persName"
 		}
@@ -3963,10 +3728,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430182901361",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182901361",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:29:01.361Z",
-	"dcterms:modified": "2024-04-30T22:29:01.361Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3977,9 +3741,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430182901361#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182901361#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3990,7 +3755,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430182901361#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182901361#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[24]/persName[5]"
 		}
@@ -4042,10 +3807,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430182937603",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182937603",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:29:37.603Z",
-	"dcterms:modified": "2024-04-30T22:29:37.603Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4056,9 +3820,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430182937603#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182937603#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4069,7 +3834,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430182937603#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430182937603#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/persName"
 		}
@@ -4120,10 +3885,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430183232021",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183232021",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:32:32.021Z",
-	"dcterms:modified": "2024-04-30T22:32:32.021Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4134,9 +3898,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430183232021#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183232021#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4147,7 +3912,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430183232021#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183232021#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName"
 		}
@@ -4199,10 +3964,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430183244948",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183244948",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:32:44.948Z",
-	"dcterms:modified": "2024-04-30T22:32:44.948Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4213,9 +3977,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430183244948#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183244948#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4226,7 +3991,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430183244948#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183244948#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName[2]"
 		}
@@ -4277,10 +4042,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430183300975",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183300975",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:33:00.975Z",
-	"dcterms:modified": "2024-04-30T22:33:00.975Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4291,9 +4055,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430183300975#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183300975#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4304,7 +4069,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430183300975#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183300975#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName[3]"
 		}
@@ -4356,10 +4121,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430183359596",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183359596",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:33:59.596Z",
-	"dcterms:modified": "2024-04-30T22:33:59.596Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4370,9 +4134,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430183359596#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183359596#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4383,7 +4148,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430183359596#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183359596#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName[4]"
 		}
@@ -4434,10 +4199,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430183414831",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183414831",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:34:14.831Z",
-	"dcterms:modified": "2024-04-30T22:34:14.831Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4448,9 +4212,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430183414831#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183414831#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4461,7 +4226,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430183414831#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183414831#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName[5]"
 		}
@@ -4513,10 +4278,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430183426209",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183426209",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:34:26.209Z",
-	"dcterms:modified": "2024-04-30T22:34:26.209Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4527,9 +4291,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430183426209#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183426209#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4540,7 +4305,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430183426209#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183426209#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName[6]"
 		}
@@ -4591,10 +4356,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20240430183439912",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183439912",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:34:39.912Z",
-	"dcterms:modified": "2024-04-30T22:34:39.912Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4605,9 +4369,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20240430183439912#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183439912#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4618,7 +4383,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20240430183439912#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183439912#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[32]/orgName"
 		}
@@ -4670,10 +4435,9 @@
 		"cito": "http://purl.org/spar/cito/",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?citation_annotation_20240430183605154",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:36:05.154Z",
-	"dcterms:modified": "2024-04-30T22:36:05.154Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4684,9 +4448,10 @@
 	},
 	"oa:motivatedBy": "cwrc:citing",
 	"oa:hasTarget": {
-		"@id": "undefined?citation_annotation_20240430183605154#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4697,7 +4462,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?citation_annotation_20240430183605154#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/note[3]"
 		}
@@ -4709,9 +4474,9 @@
 			"rdf:value": "(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (5) The party asserting the claim lacks the legal capacity to sue."
 		},
 		{
-			"@id": "undefined?citation_annotation_20240430183605154#Cites",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154#Cites",
 			"@type": "cito:Citation",
-			"cito:hasCitingEntity": "undefined?citation_annotation_20240430183605154",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154",
 			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
 			"cito:hasCitationEvent": "cito:cites"
 		}
@@ -4757,10 +4522,9 @@
 		"cito": "http://purl.org/spar/cito/",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?citation_annotation_20240430183653735",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:36:53.735Z",
-	"dcterms:modified": "2024-04-30T22:36:53.735Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4771,9 +4535,10 @@
 	},
 	"oa:motivatedBy": "cwrc:citing",
 	"oa:hasTarget": {
-		"@id": "undefined?citation_annotation_20240430183653735#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4784,7 +4549,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?citation_annotation_20240430183653735#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/note[4]"
 		}
@@ -4796,9 +4561,9 @@
 			"rdf:value": "(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted."
 		},
 		{
-			"@id": "undefined?citation_annotation_20240430183653735#Cites",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735#Cites",
 			"@type": "cito:Citation",
-			"cito:hasCitingEntity": "undefined?citation_annotation_20240430183653735",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735",
 			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
 			"cito:hasCitationEvent": "cito:cites"
 		}
@@ -4844,10 +4609,9 @@
 		"cito": "http://purl.org/spar/cito/",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?citation_annotation_20240430183756264",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:37:56.264Z",
-	"dcterms:modified": "2024-04-30T22:37:56.264Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4858,9 +4622,10 @@
 	},
 	"oa:motivatedBy": "cwrc:citing",
 	"oa:hasTarget": {
-		"@id": "undefined?citation_annotation_20240430183756264#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4871,7 +4636,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?citation_annotation_20240430183756264#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/note[2]"
 		}
@@ -4883,9 +4648,9 @@
 			"rdf:value": "Child Custody Act"
 		},
 		{
-			"@id": "undefined?citation_annotation_20240430183756264#Cites",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264#Cites",
 			"@type": "cito:Citation",
-			"cito:hasCitingEntity": "undefined?citation_annotation_20240430183756264",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264",
 			"cito:hasCitedEntity": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21",
 			"cito:hasCitationEvent": "cito:cites"
 		}
@@ -4931,10 +4696,9 @@
 		"cito": "http://purl.org/spar/cito/",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?citation_annotation_20240430184003233",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:40:03.233Z",
-	"dcterms:modified": "2024-04-30T22:40:03.233Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4945,9 +4709,10 @@
 	},
 	"oa:motivatedBy": "cwrc:citing",
 	"oa:hasTarget": {
-		"@id": "undefined?citation_annotation_20240430184003233#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -4958,7 +4723,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?citation_annotation_20240430184003233#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/note"
 		}
@@ -4970,9 +4735,9 @@
 			"rdf:value": "(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted."
 		},
 		{
-			"@id": "undefined?citation_annotation_20240430184003233#Cites",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233#Cites",
 			"@type": "cito:Citation",
-			"cito:hasCitingEntity": "undefined?citation_annotation_20240430184003233",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233",
 			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
 			"cito:hasCitationEvent": "cito:cites"
 		}
@@ -5018,10 +4783,9 @@
 		"cito": "http://purl.org/spar/cito/",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?citation_annotation_20240430184111177",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:41:11.177Z",
-	"dcterms:modified": "2024-04-30T22:41:11.177Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5032,9 +4796,10 @@
 	},
 	"oa:motivatedBy": "cwrc:citing",
 	"oa:hasTarget": {
-		"@id": "undefined?citation_annotation_20240430184111177#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5045,7 +4810,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?citation_annotation_20240430184111177#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[22]/note"
 		}
@@ -5057,9 +4822,9 @@
 			"rdf:value": "Pueblo v. Haas"
 		},
 		{
-			"@id": "undefined?citation_annotation_20240430184111177#Cites",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177#Cites",
 			"@type": "cito:Citation",
-			"cito:hasCitingEntity": "undefined?citation_annotation_20240430184111177",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177",
 			"cito:hasCitedEntity": "https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/",
 			"cito:hasCitationEvent": "cito:cites"
 		}
@@ -5105,10 +4870,9 @@
 		"cito": "http://purl.org/spar/cito/",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?citation_annotation_20240430184152442",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:41:52.442Z",
-	"dcterms:modified": "2024-04-30T22:41:52.442Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5119,9 +4883,10 @@
 	},
 	"oa:motivatedBy": "cwrc:citing",
 	"oa:hasTarget": {
-		"@id": "undefined?citation_annotation_20240430184152442#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5132,7 +4897,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?citation_annotation_20240430184152442#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/note"
 		}
@@ -5144,9 +4909,9 @@
 			"rdf:value": "Syllabus"
 		},
 		{
-			"@id": "undefined?citation_annotation_20240430184152442#Cites",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442#Cites",
 			"@type": "cito:Citation",
-			"cito:hasCitingEntity": "undefined?citation_annotation_20240430184152442",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442",
 			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/opinions/final/sct/164046_78_01.pdf",
 			"cito:hasCitationEvent": "cito:cites"
 		}
@@ -5192,10 +4957,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430184350429",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184350429",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:43:50.429Z",
-	"dcterms:modified": "2024-04-30T22:43:50.429Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5206,9 +4970,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430184350429#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184350429#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5219,7 +4984,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430184350429#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184350429#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/persName"
 		}
@@ -5271,10 +5036,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430184411441",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184411441",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:44:11.441Z",
-	"dcterms:modified": "2024-04-30T22:44:11.441Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5285,9 +5049,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430184411441#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184411441#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5298,7 +5063,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430184411441#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184411441#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/persName[2]"
 		}
@@ -5349,10 +5114,9 @@
 		"cito": "http://purl.org/spar/cito/",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?citation_annotation_20240430184529079",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:45:29.079Z",
-	"dcterms:modified": "2024-04-30T22:45:29.079Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5363,9 +5127,10 @@
 	},
 	"oa:motivatedBy": "cwrc:citing",
 	"oa:hasTarget": {
-		"@id": "undefined?citation_annotation_20240430184529079#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5376,7 +5141,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?citation_annotation_20240430184529079#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/note"
 		}
@@ -5388,9 +5153,9 @@
 			"rdf:value": "Child Custody Act, MCL 722.21 et seq."
 		},
 		{
-			"@id": "undefined?citation_annotation_20240430184529079#Cites",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079#Cites",
 			"@type": "cito:Citation",
-			"cito:hasCitingEntity": "undefined?citation_annotation_20240430184529079",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079",
 			"cito:hasCitedEntity": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf",
 			"cito:hasCitationEvent": "cito:cites"
 		}
@@ -5436,10 +5201,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240430184617173",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?rs_annotation_20240430184617173",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:46:17.173Z",
-	"dcterms:modified": "2024-04-30T22:46:17.173Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5450,9 +5214,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240430184617173#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?rs_annotation_20240430184617173#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5463,7 +5228,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240430184617173#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?rs_annotation_20240430184617173#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/rs[2]"
 		}
@@ -5515,10 +5280,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240430184646555",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?rs_annotation_20240430184646555",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:46:46.555Z",
-	"dcterms:modified": "2024-04-30T22:46:46.555Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5529,9 +5293,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240430184646555#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?rs_annotation_20240430184646555#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5542,7 +5307,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240430184646555#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?rs_annotation_20240430184646555#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[29]/rs"
 		}
@@ -5593,10 +5358,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240430184721086",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?rs_annotation_20240430184721086",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:47:21.086Z",
-	"dcterms:modified": "2024-04-30T22:47:21.086Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5607,9 +5371,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240430184721086#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?rs_annotation_20240430184721086#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5620,7 +5385,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240430184721086#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?rs_annotation_20240430184721086#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/rs"
 		}
@@ -5672,10 +5437,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430184757473",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184757473",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:47:57.473Z",
-	"dcterms:modified": "2024-04-30T22:47:57.473Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5686,9 +5450,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430184757473#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184757473#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5699,7 +5464,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430184757473#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184757473#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/persName[4]"
 		}
@@ -5751,10 +5516,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240430184822953",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430184822953",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:48:22.953Z",
-	"dcterms:modified": "2024-04-30T22:48:22.953Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5765,9 +5529,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240430184822953#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430184822953#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5778,7 +5543,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240430184822953#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430184822953#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/persName[4]/note"
 		}
@@ -5829,10 +5594,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430184908573",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184908573",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:49:08.573Z",
-	"dcterms:modified": "2024-04-30T22:49:08.573Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5843,9 +5607,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430184908573#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184908573#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5856,7 +5621,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430184908573#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184908573#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/persName[3]"
 		}
@@ -5907,10 +5672,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240430184936929",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430184936929",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:49:36.929Z",
-	"dcterms:modified": "2024-04-30T22:49:36.929Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5921,9 +5685,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240430184936929#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430184936929#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -5934,7 +5699,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240430184936929#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430184936929#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/persName[3]/note"
 		}
@@ -5985,10 +5750,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430185100671",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430185100671",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:51:00.671Z",
-	"dcterms:modified": "2024-04-30T22:51:00.671Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -5999,9 +5763,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430185100671#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430185100671#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -6012,9 +5777,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430185100671#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430185100671#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/persName[5]"
+			"rdf:value": "TEI/text/body/div/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -6064,10 +5829,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240430185111927",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430185111927",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:51:11.927Z",
-	"dcterms:modified": "2024-04-30T22:51:11.927Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -6078,9 +5842,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240430185111927#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430185111927#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -6091,9 +5856,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240430185111927#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430185111927#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/persName[5]/note"
+			"rdf:value": "TEI/text/body/div/persName[6]/note"
 		}
 	},
 	"oa:hasBody": {
@@ -6142,10 +5907,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430185207800",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430185207800",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:52:07.800Z",
-	"dcterms:modified": "2024-04-30T22:52:07.800Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -6156,9 +5920,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430185207800#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430185207800#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -6169,9 +5934,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430185207800#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430185207800#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/persName[6]"
+			"rdf:value": "TEI/text/body/div/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -6220,10 +5985,9 @@
 		"cito": "http://purl.org/spar/cito/",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?citation_annotation_20240430185246648",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:52:46.648Z",
-	"dcterms:modified": "2024-04-30T22:52:46.648Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -6234,9 +5998,10 @@
 	},
 	"oa:motivatedBy": "cwrc:citing",
 	"oa:hasTarget": {
-		"@id": "undefined?citation_annotation_20240430185246648#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -6247,7 +6012,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?citation_annotation_20240430185246648#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/note[5]"
 		}
@@ -6259,9 +6024,9 @@
 			"rdf:value": "Judge or Justice"
 		},
 		{
-			"@id": "undefined?citation_annotation_20240430185246648#Cites",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648#Cites",
 			"@type": "cito:Citation",
-			"cito:hasCitingEntity": "undefined?citation_annotation_20240430185246648",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648",
 			"cito:hasCitedEntity": "http://dbpedia.org/resource/Judge",
 			"cito:hasCitationEvent": "cito:cites"
 		}
@@ -6307,10 +6072,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240430185331079",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430185331079",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:53:31.079Z",
-	"dcterms:modified": "2024-04-30T22:53:31.079Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -6321,9 +6085,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240430185331079#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430185331079#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -6334,9 +6099,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240430185331079#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430185331079#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/persName[7]"
+			"rdf:value": "TEI/text/body/div/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -6386,10 +6151,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20240430185347847",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430185347847",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:53:47.847Z",
-	"dcterms:modified": "2024-04-30T22:53:47.847Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -6400,9 +6164,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20240430185347847#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430185347847#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -6413,9 +6178,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20240430185347847#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?note_annotation_20240430185347847#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/persName[7]/note"
+			"rdf:value": "TEI/text/body/div/persName[8]/note"
 		}
 	},
 	"oa:hasBody": {
@@ -6464,10 +6229,9 @@
 		"cito": "http://purl.org/spar/cito/",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?citation_annotation_20240430185729170",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-04-30T22:57:29.170Z",
-	"dcterms:modified": "2024-04-30T22:57:29.170Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -6478,9 +6242,10 @@
 	},
 	"oa:motivatedBy": "cwrc:citing",
 	"oa:hasTarget": {
-		"@id": "undefined?citation_annotation_20240430185729170#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -6491,7 +6256,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?citation_annotation_20240430185729170#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/note[6]"
 		}
@@ -6503,9 +6268,9 @@
 			"rdf:value": "LeFever v Matthews , 336 Mich App 651"
 		},
 		{
-			"@id": "undefined?citation_annotation_20240430185729170#Cites",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170#Cites",
 			"@type": "cito:Citation",
-			"cito:hasCitingEntity": "undefined?citation_annotation_20240430185729170",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170",
 			"cito:hasCitedEntity": "https://casetext.com/case/lefever-v-matthews-1",
 			"cito:hasCitationEvent": "cito:cites"
 		}
@@ -6519,12 +6284,92 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430213554728",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-05-01T01:35:54.728Z",
+	"dcterms:modified": "2024-05-01T01:35:54.728Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/sofiawilson",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Sofia"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430213554728#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430213554728#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Plaintiff",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<div>
 				<head>Pueblo v. Haas: Syllabus<note type="citation"><bibl><ref target="https://www.courts.michigan.gov/siteassets/case-documents/uploads/opinions/final/sct/164046_78_01.pdf"/>Syllabus</bibl></note></head>
-				<p><orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Michigan Supreme Court</orgName></p><p><placeName key="Lansing, Michigan" ref="http://dbpedia.org/resource/Lansing,_Michigan" cert="high">Lansing, Michigan<precision match="@ref" precision="high"/></placeName></p><p/><p>Chief Justice:</p><p><persName key="Elizabeth T. Clement" ref="http://www.wikidata.org/entity/Q43302902" cert="high" role="jud" type="real">Elizabeth T. Clement</persName></p><p/><p>Justices:</p><p><persName key="Brian K. Zahra" ref="http://www.wikidata.org/entity/Q4964273" cert="high" role="jud" type="real">Brian K. Zahra</persName></p><p><persName key="David F. Viviano" ref="https://en.wikipedia.org/wiki/David_Viviano" role="jud">David F. Viviano</persName></p><p><persName key="Richard H. Bernstein" ref="https://en.wikipedia.org/wiki/Richard_H._Bernstein" role="jud">Richard H. Bernstein</persName></p><p><persName key="Megan K. Cavanagh" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" role="jud">Megan K. Cavanagh</persName></p><p><persName key="Elizabeth M. Welch" ref="http://www.wikidata.org/entity/Q102027631" role="jud">Elizabeth M. Welch</persName></p><p><persName key="Kyra H. Bolden" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud">Kyra H. Bolden</persName></p><p/><p>This syllabus constitutes no part of the opinion of the <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342">Court</orgName> but has beenprepared by the Reporter of Decisions for the convenience of the reader,</p><p/><p>Reporter of Decisions:</p><p>Kathryn L. Loomis</p><p/><p>PUEBLO v HAAS</p><p/><p>Docket No. 164046<note type="citation"><bibl><ref target="https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/"/>Pueblo v. Haas</bibl></note>. Argued <date when="2023-04-04" cert="high">April 4, 2023</date> (Calendar No. 3). Decided <date when="2023-07-23">July 24, 2023</date>.</p><p/><persName key="Carrie Pueblo" ref="https://www.courts.michigan.gov/siteassets/case-documents/uploads/opinions/final/sct/164046_78_01.pdf" cert="high" role="ptt" type="real">Carrie Pueblo</persName> brought an action against her former domestic partner, <persName key="Rachel Haas" ref="https://www.courts.michigan.gov/siteassets/case-documents/uploads/opinions/final/sct/164046_78_01.pdf" role="dfe">Rachel Haas</persName>, in the <orgName key="Kalamazoo Circuit Court" ref="https://www.kalcounty.com/courts/circuit/admin/" cert="high"><placeName key="Kalamazoo, Michigan" ref="http://dbpedia.org/resource/Kalamazoo,_Michigan">Kalamazoo</placeName> Circuit Court</orgName> under the Child Custody Act (CCA)<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf"/>Child Custody Act, MCL 722.21 et seq.</bibl></note>, MCL 722.21 et seq.<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21"/>Child Custody Act</bibl></note>, seeking joint custody and parenting time for a child whom <persName key="Defendant" ref="http://dbpedia.org/resource/Defendant" role="dfe">defendant<note>Rachel Haas</note></persName> conceived through <rs key="in vitro fertilization" ref="http://www.wikidata.org/entity/Q200117" cert="high">in vitro fertilization</rs> and gave birth to in <date when="2008">2008</date>, during the parties’ relationship. <persName key="Defendant" ref="http://dbpedia.org/resource/Defendant" cert="high" role="dfe" type="real">Defendant<note>Rachel Haas</note></persName> moved for <rs key="summary disposition" ref="https://en.wikipedia.org/wiki/Summary_judgment" cert="high">summary disposition</rs> under MCR 2.116(C)(5)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (5) The party asserting the claim lacks the legal capacity to sue.</bibl></note> and MCR 2.116(C)(8)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note>, asserting that because the parties had never married and plaintiff had no biological or adoptive relationship to the child, <persName key="Plaintiff" ref="http://dbpedia.org/resource/Plaintiff" cert="high" role="ptt" type="real">plaintiff<note>Carrie Pueblo</note></persName> lacked standing to sue and also failed to state a claim for which relief could be granted. Following ahearing, the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="medium">trial court</orgName>, <persName key="Stephen D. Gorsalitz" ref="https://ballotpedia.org/Stephen_Gorsalitz" role="jud">Stephen D. Gorsalitz</persName>, J.<note type="citation"><bibl><ref target="http://dbpedia.org/resource/Judge"/>Judge or Justice</bibl></note>, granted the motion and dismissed the case without prejudice. After defendant moved for reconsideration, the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> dismissed the action with prejudice. <persName key="Plaintiff" ref="http://dbpedia.org/resource/Plaintiff" cert="high" role="ptt" type="real">Plaintiff<note>Carrie Pueblo</note></persName> then filed her own motion for reconsideration, arguing that she had standing as a natural parent, despite the lack of genetic connection, following the <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName> decisionin LeFever v Matthews, 336 Mich App 651<note type="citation"><bibl><ref target="https://casetext.com/case/lefever-v-matthews-1"/>LeFever v Matthews , 336 Mich App 651</bibl></note> (<date when="2021" cert="high">2021</date>), which expanded the definition of “natural parent” to include unmarried women who gave birth as surrogates but shared no genetic connection with the children. Plaintiff also asserted that the <orgName key="michigan trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName> order violated her Fourteenth Amendment rights to due process and equal protection, as well as those of the child. Plaintiff further argued that any dismissal should have been without prejudice. The <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> denied reconsideration, distinguishing LeFever on the ground that plaintiff had not given birth to the child. Plaintiff appealed, reasserting her previous arguments and further asserting that the equitable-parent doctrine should extend to the parties’ relationship, which had been solemnized in a civilcommitment ceremony when it was not yet legal in <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName> for same-sex partners to marry. The Court of Appeals, GADOLA, P.J., and SWARTZLE and CAMERON, JJ., rejected these arguments and affirmed the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="medium">trial court</orgName> in an unpublished per curiam opinion of the Court of Appeals, issued <date when="2021-12-28" cert="high">December 28, 2021</date> (Docket No. 357577). The Supreme Court granted plaintiff’s application forleave to appeal, asking whether and to what extent the equitable-parent doctrine should beextended to provide standing under the CCA to plaintiff and those similarly situated in light of Obergefell v Hodges, 576 US 644 (<date when="2015" cert="high">2015</date>), which invalidated <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s prohibitions on same-sexmarriage. 510 Mich 936 (<date when="2022">2022</date>).<p>In an opinion by Justice <persName key="CAVANAGH" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" cert="high" role="jud" type="real">CAVANAGH</persName> , joined by Chief Justice <persName key="CLEMENT" ref="http://www.wikidata.org/entity/Q43302902" cert="high" role="jud" type="real">CLEMENT</persName> and Justices <persName key="BERNSTEIN" ref="https://en.wikipedia.org/wiki/Richard_H._Bernstein" cert="high" role="jud" type="real">BERNSTEIN</persName>, <persName key="WELCH" ref="http://www.wikidata.org/entity/Q102027631" cert="high" role="jud" type="real">WELCH</persName>, and <persName key="BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" cert="high" role="jud" type="real">BOLDEN</persName>, the Supreme Court held:</p><p>A former member of a same-sex couple seeking custody of a child to whom they did not give birth and with whom they share no genetic connection is entitled to make their case for equitable parenthood and thus establish standing to bring an action under the CCA. To do so, the plaintiff must demonstrate by a preponderance of the evidence that the parties would have married before the child’s conception or birth but for <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName>’s unconstitutional marriage ban. When determining whether a plaintiff satisfies this standard, courts should consider the nondispositive factors set forth in In re Madrone, 271 Or App 116 (<date when="2015">2015</date>). The Court of Appeals judgment was reversed and the case remanded to the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="medium">trial court</orgName> to apply this threshold test. To the extent that Lake v Putnam, 316 Mich App 247 (<date when="2016" cert="high">2016</date>), was inconsistent with the Court’s opinion, it was overruled.</p><p>1. Under the equitable-parent doctrine, a spouse who is not a biological parent has standingto seek custody of a child born or conceived during their marriage when (1) the would-be equitable parent and the child acknowledge the parental relationship or the biological or adoptive parent has cultivated the development of a relationship over a period of time, (2) the would-be equitable parent desires to have the rights afforded a parent, and (3) the would-be equitable parent is willing to pay child support. Before <date when="2015">2015</date>, <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan" cert="high">Michigan<precision match="@ref" precision="high"/></placeName> unconstitutionally prohibited same-sex couples from marrying and refused to recognize legal marriages performed in other jurisdictions. Consequently,a same-sex partner did not have the option to adopt their spouse’s child or to marry their pregnant partner and benefit from the marital presumption of parentage. Further, unmarried same-sex couples were not permitted to adopt through second-parent adoption. Obergefell rendered <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName>’s unconstitutional bar on same-sex marriage unenforceable, holding that the denial of the ability to marry was a denial of same-sex couples’ constitutional due-process and equal-protection rights. Obergefell noted generally the importance of the various benefits that the stateshave connected to marriage, referred to as the “constellation of benefits,” and specifically emphasized the harm that the unconstitutional prohibition on marriage caused the children of same-sex couples. Recognition of equitable parenthood is one of the “constellation of benefits” associated with marriage in <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, and, as a matter of equity and constitutional law, <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName> courts are compelled to treat same-sex couples equally. Accordingly, Obergefell demanded the extension of the equitable-parent doctrine to those who were unable to marry during their same-sex relationships because of discriminatory and unconstitutional <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan" cert="high">Michigan<precision match="@ref" precision="high"/></placeName> laws but who developedde facto parent-child relationships with the children born or adopted by their same-sex partnersduring the time they would have otherwise been married. This extension served the underlying rationale of the equitable-parent doctrine, which considers the best interests of the child to be paramount, and it was consistent with recent developments in the law recognizing that federal and state law protects people from discrimination on the basis of sexual orientation. It was not necessary to overrule Van, which involved parties who chose not to legally marry despite their ability to do so. However, it was necessary to overrule Lake, which had declined to extend theequitable-parent doctrine to same-sex couples who had previously been unable to marry, to the extent it was inconsistent with the Court’s holding. Lake’s concern about retroactively and unilaterally creating a marriage relationship against the parties’ wishes was remedied by requiring the person seeking custody to show, by a preponderance of the evidence, that the parties would have married had they been legally permitted to do so in <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName>. In light of the conclusion that plaintiff may pursue standing as an equitable parent, her alternative claims were not addressed.</p><p/><p>2. A would-be equitable parent has standing if they demonstrate by the preponderance ofthe evidence that the parties would have married before the child’s birth or conception but for theunconstitutional laws that prevented them from doing so. This approach is based on Madrone, which crafted a factual inquiry to be applied when extending the presumption of parentage in itsartificial-insemination statute to same-sex partners of biological mothers. Madrone concluded thatthe proper focus was on whether the parties would have married but for the previousunconstitutional state prohibition on same-sex marriage, which involved a contemporaneous inquiry concerning the mutual intent of the parties. The relevant factors it concluded wouldsupport an inference that same-sex partners would have married but for the prior unconstitutionalbar included whether the couple took advantage of other options giving legal recognition to their relationship, held each other out as or considered themselves to be spouses, had children during the relationship and shared childrearing responsibilities, held a commitment ceremony orotherwise exchanged vows of commitment, exchanged rings, shared a last name, commingled their assets and finances, made significant financial decisions together, sought to adopt any children either of them may have had before the relationship began, or attempted unsuccessfully to get married. The Supreme Court adopted this approach and held that in <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName>, if the intent tomarry is disputed, a would-be equitable parent must prove by a preponderance of the evidence thatthe couple would have married based on their contemporaneous conduct, considering theillustrative but nondispositive and nonexhaustive factors set forth in Madrone. If that threshold test for standing is satisfied, the court may evaluate the equitable-parent factors to determinewhether the would-be equitable parent has standing to seek custody and parenting time.</p><p>3. Plaintiff made a sufficient showing to survive <rs key="summary disposition" ref="https://en.wikipedia.org/wiki/Summary_judgment">summary disposition</rs> under MCR 2.116(C)(8)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note> on standing grounds. In particular, plaintiff’s allegations that she cultivated the development of a relationship with the child over a period of time, desires to have parental rights, and is willing to pay child support are sufficient to advance her claim for equitable parenthood. Plaintiff also alleged facts entitling her to a threshold determination of whether the parties wouldhave married but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s unconstitutional bar on same-sex marriage.</p><p>Court of Appeals judgment reversed; case remanded to the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> for further proceedings.</p><p>Justice <persName key="BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud">BOLDEN</persName>, concurring, wrote separately to note that because many state laws relatingto marriage, out-of-wedlock parenting, and reproductive technologies had been enacted without consideration of Obergefell, the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature" cert="high">Legislature</orgName> should act to resolve the lingering puzzles that remained regarding how the current applicable statutory schemes could fit the practical realities of same-sex relationships with regard to parenting. In particular, she stated that, aside from the question whether the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature">Legislature</orgName> should address the equitable-parent doctrine, it should clarify ambiguities in the CCA, which says nothing about biology or marriage and contains an unclear definition of “natural parent.” She echoed former Justice KELLY ’s observation in Van that, incustody disputes, the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature" cert="high">Legislature</orgName>’s overriding concern has not been the preservation of the institution of marriage, but rather the best interests of the children, and she suggested that the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature">Legislature</orgName> consider amending the CCA for consistency with this priority in mind. She also suggested that the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature" cert="high">Legislature</orgName> consider whether to enact a formal procedure to address situations like plaintiff’s. In sum, she urged the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature">Legislature</orgName> to answer the questions raised by this case regarding children born to same-sex couples by enacting a sufficient statutory scheme that would adequately reflect equal-protection and due-process considerations.</p><p>Justice <persName key="ZAHRA" ref="http://www.wikidata.org/entity/Q4964273" role="jud">ZAHRA</persName>, joined by Justice <persName key="VIVIANO" ref="https://en.wikipedia.org/wiki/David_Viviano" cert="high" role="jud" type="real">VIVIANO</persName>, dissenting, disagreed with the extension of the equitable-parent doctrine. He questioned the validity of the doctrine, expressed concern that its legally unsupported extension would result in far-reaching ramifications outside the child custody context, and did not believe it was an appropriate tool to provide plaintiff the relief she sought. He also questioned the advisability of the “but for” test set forth by the majority and worried that it would be applied too broadly. Finally, he emphasized that plaintiff’s remedy rested with the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature" cert="high">Legislature</orgName> rather than the judiciary. For these reasons, he would have declined to disturb the lower courts’ decisions.</p><p/><p/><p/></div>
+				<p><orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342" cert="high">Michigan Supreme Court</orgName></p><p><placeName key="Lansing, Michigan" ref="http://dbpedia.org/resource/Lansing,_Michigan" cert="high">Lansing, Michigan<precision match="@ref" precision="high"/></placeName></p><p/><p>Chief Justice:</p><p><persName key="Elizabeth T. Clement" ref="http://www.wikidata.org/entity/Q43302902" cert="high" role="jud" type="real">Elizabeth T. Clement</persName></p><p/><p>Justices:</p><p><persName key="Brian K. Zahra" ref="http://www.wikidata.org/entity/Q4964273" cert="high" role="jud" type="real">Brian K. Zahra</persName></p><p><persName key="David F. Viviano" ref="https://en.wikipedia.org/wiki/David_Viviano" role="jud">David F. Viviano</persName></p><p><persName key="Richard H. Bernstein" ref="https://en.wikipedia.org/wiki/Richard_H._Bernstein" role="jud">Richard H. Bernstein</persName></p><p><persName key="Megan K. Cavanagh" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" role="jud">Megan K. Cavanagh</persName></p><p><persName key="Elizabeth M. Welch" ref="http://www.wikidata.org/entity/Q102027631" role="jud">Elizabeth M. Welch</persName></p><p><persName key="Kyra H. Bolden" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud">Kyra H. Bolden</persName></p><p/><p>This syllabus constitutes no part of the opinion of the <orgName key="Michigan Supreme Court" ref="http://www.wikidata.org/entity/Q1415342">Court</orgName> but has beenprepared by the Reporter of Decisions for the convenience of the reader,</p><p/><p>Reporter of Decisions:</p><p>Kathryn L. Loomis</p><p/><p>PUEBLO v HAAS</p><p/><p>Docket No. 164046<note type="citation"><bibl><ref target="https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/"/>Pueblo v. Haas</bibl></note>. Argued <date when="2023-04-04" cert="high">April 4, 2023</date> (Calendar No. 3). Decided <date when="2023-07-23">July 24, 2023</date>.</p><p/><persName key="Carrie Pueblo" ref="https://www.courts.michigan.gov/siteassets/case-documents/uploads/opinions/final/sct/164046_78_01.pdf" cert="high" role="ptt" type="real">Carrie Pueblo</persName> brought an action against her former domestic partner, <persName key="Rachel Haas" ref="https://www.courts.michigan.gov/siteassets/case-documents/uploads/opinions/final/sct/164046_78_01.pdf" role="dfe">Rachel Haas</persName>, in the <orgName key="Kalamazoo Circuit Court" ref="https://www.kalcounty.com/courts/circuit/admin/" cert="high"><placeName key="Kalamazoo, Michigan" ref="http://dbpedia.org/resource/Kalamazoo,_Michigan">Kalamazoo</placeName> Circuit Court</orgName> under the Child Custody Act (CCA)<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf"/>Child Custody Act, MCL 722.21 et seq.</bibl></note>, MCL 722.21 et seq.<note type="citation"><bibl><ref target="https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21"/>Child Custody Act</bibl></note>, seeking joint custody and parenting time for a child whom <persName key="Defendant" ref="http://dbpedia.org/resource/Defendant" role="dfe">defendant<note>Rachel Haas</note></persName> conceived through <rs key="in vitro fertilization" ref="http://www.wikidata.org/entity/Q200117" cert="high">in vitro fertilization</rs> and gave birth to in <date when="2008">2008</date>, during the parties’ relationship. <persName key="Defendant" ref="http://dbpedia.org/resource/Defendant" cert="high" role="dfe" type="real">Defendant<note>Rachel Haas</note></persName> moved for <rs key="summary disposition" ref="https://en.wikipedia.org/wiki/Summary_judgment" cert="high">summary disposition</rs> under MCR 2.116(C)(5)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (5) The party asserting the claim lacks the legal capacity to sue.</bibl></note> and MCR 2.116(C)(8)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note>, asserting that because the parties had never married and <persName key="Plaintiff" ref="http://dbpedia.org/resource/Plaintiff" cert="high" role="jud" type="real">plaintiff</persName> had no biological or adoptive relationship to the child, <persName key="Plaintiff" ref="http://dbpedia.org/resource/Plaintiff" cert="high" role="ptt" type="real">plaintiff<note>Carrie Pueblo</note></persName> lacked standing to sue and also failed to state a claim for which relief could be granted. Following ahearing, the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="medium">trial court</orgName>, <persName key="Stephen D. Gorsalitz" ref="https://ballotpedia.org/Stephen_Gorsalitz" role="jud">Stephen D. Gorsalitz</persName>, J.<note type="citation"><bibl><ref target="http://dbpedia.org/resource/Judge"/>Judge or Justice</bibl></note>, granted the motion and dismissed the case without prejudice. After defendant moved for reconsideration, the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> dismissed the action with prejudice. <persName key="Plaintiff" ref="http://dbpedia.org/resource/Plaintiff" cert="high" role="ptt" type="real">Plaintiff<note>Carrie Pueblo</note></persName> then filed her own motion for reconsideration, arguing that she had standing as a natural parent, despite the lack of genetic connection, following the <orgName key="Michigan Court of Appeals" ref="http://www.wikidata.org/entity/Q6837507">Court of Appeals</orgName> decisionin LeFever v Matthews, 336 Mich App 651<note type="citation"><bibl><ref target="https://casetext.com/case/lefever-v-matthews-1"/>LeFever v Matthews , 336 Mich App 651</bibl></note> (<date when="2021" cert="high">2021</date>), which expanded the definition of “natural parent” to include unmarried women who gave birth as surrogates but shared no genetic connection with the children. Plaintiff also asserted that the <orgName key="michigan trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="high">trial court</orgName> order violated her Fourteenth Amendment rights to due process and equal protection, as well as those of the child. Plaintiff further argued that any dismissal should have been without prejudice. The <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> denied reconsideration, distinguishing LeFever on the ground that plaintiff had not given birth to the child. Plaintiff appealed, reasserting her previous arguments and further asserting that the equitable-parent doctrine should extend to the parties’ relationship, which had been solemnized in a civilcommitment ceremony when it was not yet legal in <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName> for same-sex partners to marry. The Court of Appeals, GADOLA, P.J., and SWARTZLE and CAMERON, JJ., rejected these arguments and affirmed the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="medium">trial court</orgName> in an unpublished per curiam opinion of the Court of Appeals, issued <date when="2021-12-28" cert="high">December 28, 2021</date> (Docket No. 357577). The Supreme Court granted plaintiff’s application forleave to appeal, asking whether and to what extent the equitable-parent doctrine should beextended to provide standing under the CCA to plaintiff and those similarly situated in light of Obergefell v Hodges, 576 US 644 (<date when="2015" cert="high">2015</date>), which invalidated <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s prohibitions on same-sexmarriage. 510 Mich 936 (<date when="2022">2022</date>).<p>In an opinion by Justice <persName key="CAVANAGH" ref="https://en.wikipedia.org/wiki/Megan_Cavanagh_(judge)" cert="high" role="jud" type="real">CAVANAGH</persName> , joined by Chief Justice <persName key="CLEMENT" ref="http://www.wikidata.org/entity/Q43302902" cert="high" role="jud" type="real">CLEMENT</persName> and Justices <persName key="BERNSTEIN" ref="https://en.wikipedia.org/wiki/Richard_H._Bernstein" cert="high" role="jud" type="real">BERNSTEIN</persName>, <persName key="WELCH" ref="http://www.wikidata.org/entity/Q102027631" cert="high" role="jud" type="real">WELCH</persName>, and <persName key="BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" cert="high" role="jud" type="real">BOLDEN</persName>, the Supreme Court held:</p><p>A former member of a same-sex couple seeking custody of a child to whom they did not give birth and with whom they share no genetic connection is entitled to make their case for equitable parenthood and thus establish standing to bring an action under the CCA. To do so, the plaintiff must demonstrate by a preponderance of the evidence that the parties would have married before the child’s conception or birth but for <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName>’s unconstitutional marriage ban. When determining whether a plaintiff satisfies this standard, courts should consider the nondispositive factors set forth in In re Madrone, 271 Or App 116 (<date when="2015">2015</date>). The Court of Appeals judgment was reversed and the case remanded to the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf" cert="medium">trial court</orgName> to apply this threshold test. To the extent that Lake v Putnam, 316 Mich App 247 (<date when="2016" cert="high">2016</date>), was inconsistent with the Court’s opinion, it was overruled.</p><p>1. Under the equitable-parent doctrine, a spouse who is not a biological parent has standingto seek custody of a child born or conceived during their marriage when (1) the would-be equitable parent and the child acknowledge the parental relationship or the biological or adoptive parent has cultivated the development of a relationship over a period of time, (2) the would-be equitable parent desires to have the rights afforded a parent, and (3) the would-be equitable parent is willing to pay child support. Before <date when="2015">2015</date>, <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan" cert="high">Michigan<precision match="@ref" precision="high"/></placeName> unconstitutionally prohibited same-sex couples from marrying and refused to recognize legal marriages performed in other jurisdictions. Consequently,a same-sex partner did not have the option to adopt their spouse’s child or to marry their pregnant partner and benefit from the marital presumption of parentage. Further, unmarried same-sex couples were not permitted to adopt through second-parent adoption. Obergefell rendered <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName>’s unconstitutional bar on same-sex marriage unenforceable, holding that the denial of the ability to marry was a denial of same-sex couples’ constitutional due-process and equal-protection rights. Obergefell noted generally the importance of the various benefits that the stateshave connected to marriage, referred to as the “constellation of benefits,” and specifically emphasized the harm that the unconstitutional prohibition on marriage caused the children of same-sex couples. Recognition of equitable parenthood is one of the “constellation of benefits” associated with marriage in <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>, and, as a matter of equity and constitutional law, <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName> courts are compelled to treat same-sex couples equally. Accordingly, Obergefell demanded the extension of the equitable-parent doctrine to those who were unable to marry during their same-sex relationships because of discriminatory and unconstitutional <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan" cert="high">Michigan<precision match="@ref" precision="high"/></placeName> laws but who developedde facto parent-child relationships with the children born or adopted by their same-sex partnersduring the time they would have otherwise been married. This extension served the underlying rationale of the equitable-parent doctrine, which considers the best interests of the child to be paramount, and it was consistent with recent developments in the law recognizing that federal and state law protects people from discrimination on the basis of sexual orientation. It was not necessary to overrule Van, which involved parties who chose not to legally marry despite their ability to do so. However, it was necessary to overrule Lake, which had declined to extend theequitable-parent doctrine to same-sex couples who had previously been unable to marry, to the extent it was inconsistent with the Court’s holding. Lake’s concern about retroactively and unilaterally creating a marriage relationship against the parties’ wishes was remedied by requiring the person seeking custody to show, by a preponderance of the evidence, that the parties would have married had they been legally permitted to do so in <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName>. In light of the conclusion that plaintiff may pursue standing as an equitable parent, her alternative claims were not addressed.</p><p/><p>2. A would-be equitable parent has standing if they demonstrate by the preponderance ofthe evidence that the parties would have married before the child’s birth or conception but for theunconstitutional laws that prevented them from doing so. This approach is based on Madrone, which crafted a factual inquiry to be applied when extending the presumption of parentage in itsartificial-insemination statute to same-sex partners of biological mothers. Madrone concluded thatthe proper focus was on whether the parties would have married but for the previousunconstitutional state prohibition on same-sex marriage, which involved a contemporaneous inquiry concerning the mutual intent of the parties. The relevant factors it concluded wouldsupport an inference that same-sex partners would have married but for the prior unconstitutionalbar included whether the couple took advantage of other options giving legal recognition to their relationship, held each other out as or considered themselves to be spouses, had children during the relationship and shared childrearing responsibilities, held a commitment ceremony orotherwise exchanged vows of commitment, exchanged rings, shared a last name, commingled their assets and finances, made significant financial decisions together, sought to adopt any children either of them may have had before the relationship began, or attempted unsuccessfully to get married. The Supreme Court adopted this approach and held that in <placeName key="Michigan" ref="http://dbpedia.org/resource/Michigan">Michigan</placeName>, if the intent tomarry is disputed, a would-be equitable parent must prove by a preponderance of the evidence thatthe couple would have married based on their contemporaneous conduct, considering theillustrative but nondispositive and nonexhaustive factors set forth in Madrone. If that threshold test for standing is satisfied, the court may evaluate the equitable-parent factors to determinewhether the would-be equitable parent has standing to seek custody and parenting time.</p><p>3. Plaintiff made a sufficient showing to survive <rs key="summary disposition" ref="https://en.wikipedia.org/wiki/Summary_judgment">summary disposition</rs> under MCR 2.116(C)(8)<note type="citation"><bibl><ref target="https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition"/>(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted.</bibl></note> on standing grounds. In particular, plaintiff’s allegations that she cultivated the development of a relationship with the child over a period of time, desires to have parental rights, and is willing to pay child support are sufficient to advance her claim for equitable parenthood. Plaintiff also alleged facts entitling her to a threshold determination of whether the parties wouldhave married but for <placeName key="Michigan" ref="http://www.wikidata.org/entity/Q1166" cert="high">Michigan<precision match="@ref" precision="high"/></placeName>’s unconstitutional bar on same-sex marriage.</p><p>Court of Appeals judgment reversed; case remanded to the <orgName key="trial court" ref="https://www.legislature.mi.gov/documents/publications/MichiganManual/2009-2010/09-10_MM_V_pp_25-26_MITrialCts.pdf">trial court</orgName> for further proceedings.</p><p>Justice <persName key="BOLDEN" ref="https://en.wikipedia.org/wiki/Kyra_Harris_Bolden" role="jud">BOLDEN</persName>, concurring, wrote separately to note that because many state laws relatingto marriage, out-of-wedlock parenting, and reproductive technologies had been enacted without consideration of Obergefell, the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature" cert="high">Legislature</orgName> should act to resolve the lingering puzzles that remained regarding how the current applicable statutory schemes could fit the practical realities of same-sex relationships with regard to parenting. In particular, she stated that, aside from the question whether the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature">Legislature</orgName> should address the equitable-parent doctrine, it should clarify ambiguities in the CCA, which says nothing about biology or marriage and contains an unclear definition of “natural parent.” She echoed former Justice KELLY ’s observation in Van that, incustody disputes, the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature" cert="high">Legislature</orgName>’s overriding concern has not been the preservation of the institution of marriage, but rather the best interests of the children, and she suggested that the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature">Legislature</orgName> consider amending the CCA for consistency with this priority in mind. She also suggested that the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature" cert="high">Legislature</orgName> consider whether to enact a formal procedure to address situations like plaintiff’s. In sum, she urged the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature">Legislature</orgName> to answer the questions raised by this case regarding children born to same-sex couples by enacting a sufficient statutory scheme that would adequately reflect equal-protection and due-process considerations.</p><p>Justice <persName key="ZAHRA" ref="http://www.wikidata.org/entity/Q4964273" role="jud">ZAHRA</persName>, joined by Justice <persName key="VIVIANO" ref="https://en.wikipedia.org/wiki/David_Viviano" cert="high" role="jud" type="real">VIVIANO</persName>, dissenting, disagreed with the extension of the equitable-parent doctrine. He questioned the validity of the doctrine, expressed concern that its legally unsupported extension would result in far-reaching ramifications outside the child custody context, and did not believe it was an appropriate tool to provide plaintiff the relief she sought. He also questioned the advisability of the “but for” test set forth by the majority and worried that it would be applied too broadly. Finally, he emphasized that plaintiff’s remedy rested with the <orgName key="Legislature" ref="https://en.wikipedia.org/wiki/Michigan_Legislature" cert="high">Legislature</orgName> rather than the judiciary. For these reasons, he would have declined to disturb the lower courts’ decisions.</p><p/><p/><p/></div>
 		</body>
 	</text>
 </TEI>
