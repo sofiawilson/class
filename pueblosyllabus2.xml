@@ -12,7 +12,7 @@
 			</publicationStmt>
 			<sourceDesc sameAs="http://www.cwrc.ca">
 				<p>Created from original research by members of CWRC/CSÉC unless
-					otherwise noted.</p>
+					otherwise noted</p>
 			</sourceDesc>
 		</fileDesc>
 		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
@@ -2787,10 +2787,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173008864",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240501164242832",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T21:30:08.864Z",
-	"dcterms:modified": "2024-05-01T20:42:42.832Z",
+	"dcterms:created": "2024-05-01T20:42:42.832Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -2801,7 +2800,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173008864#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240501164242832#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
@@ -2812,10 +2811,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
+			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430173008864#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240501164242832#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[8]/persName"
 		}
@@ -2830,7 +2829,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
+		"schema:softwareVersion": "3.5.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
@@ -3887,10 +3886,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183232021",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164138965",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T22:32:32.021Z",
-	"dcterms:modified": "2024-05-01T20:41:38.965Z",
+	"dcterms:created": "2024-05-01T20:41:38.965Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3901,7 +3899,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183232021#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164138965#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
@@ -3912,10 +3910,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
+			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183232021#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164138965#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName"
 		}
@@ -3930,7 +3928,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
+		"schema:softwareVersion": "3.5.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
@@ -3967,10 +3965,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183244948",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164150126",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T22:32:44.948Z",
-	"dcterms:modified": "2024-05-01T20:41:50.126Z",
+	"dcterms:created": "2024-05-01T20:41:50.126Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -3981,7 +3978,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183244948#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164150126#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
@@ -3992,10 +3989,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
+			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183244948#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164150126#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName[2]"
 		}
@@ -4010,7 +4007,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
+		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
         </rdf:Description>
@@ -4046,10 +4043,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183300975",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164159121",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T22:33:00.975Z",
-	"dcterms:modified": "2024-05-01T20:41:59.121Z",
+	"dcterms:created": "2024-05-01T20:41:59.121Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4060,7 +4056,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183300975#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164159121#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
@@ -4071,10 +4067,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
+			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183300975#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164159121#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName[3]"
 		}
@@ -4089,7 +4085,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
+		"schema:softwareVersion": "3.5.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
@@ -4126,10 +4122,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183359596",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164207864",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T22:33:59.596Z",
-	"dcterms:modified": "2024-05-01T20:42:07.864Z",
+	"dcterms:created": "2024-05-01T20:42:07.864Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4140,7 +4135,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183359596#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164207864#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
@@ -4151,10 +4146,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
+			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183359596#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164207864#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName[4]"
 		}
@@ -4169,7 +4164,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
+		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
         </rdf:Description>
@@ -4205,10 +4200,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183414831",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164214849",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T22:34:14.831Z",
-	"dcterms:modified": "2024-05-01T20:42:14.849Z",
+	"dcterms:created": "2024-05-01T20:42:14.849Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4219,7 +4213,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183414831#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164214849#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
@@ -4230,10 +4224,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
+			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183414831#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164214849#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName[5]"
 		}
@@ -4248,7 +4242,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
+		"schema:softwareVersion": "3.5.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
@@ -4285,10 +4279,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183426209",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164222730",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T22:34:26.209Z",
-	"dcterms:modified": "2024-05-01T20:42:22.730Z",
+	"dcterms:created": "2024-05-01T20:42:22.730Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -4299,7 +4292,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183426209#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164222730#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
@@ -4310,10 +4303,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
+			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240430183426209#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?organization_annotation_20240501164222730#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[31]/orgName[6]"
 		}
@@ -4328,7 +4321,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
+		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
         </rdf:Description>
@@ -4480,6 +4473,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (5) The party asserting the claim lacks the legal capacity to sue."
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154#Cites",
@@ -4910,6 +4917,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735",
 			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -4990,6 +5011,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Child Custody Act"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264#Cites",
@@ -5420,6 +5455,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233",
 			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -5500,6 +5549,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Pueblo v. Haas"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177#Cites",
@@ -5930,6 +5993,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442",
 			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/opinions/final/sct/164046_78_01.pdf",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/opinions/final/sct/164046_78_01.pdf",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/opinions/final/sct/164046_78_01.pdf",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -6167,6 +6244,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Child Custody Act, MCL 722.21 et seq."
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079#Cites",
@@ -6778,10 +6869,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184908573",
+	"id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240501164310440",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-04-30T22:49:08.573Z",
-	"dcterms:modified": "2024-05-01T20:43:10.440Z",
+	"dcterms:created": "2024-05-01T20:43:10.440Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/sofiawilson",
 		"@type": [
@@ -6792,7 +6882,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184908573#Target",
+		"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240501164310440#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml",
@@ -6803,10 +6893,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
+			"schema:softwareVersion": "3.5.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240430184908573#Selector",
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?person_annotation_20240501164310440#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/persName[3]"
 		}
@@ -6821,7 +6911,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
+		"schema:softwareVersion": "3.5.0"
 	}
 }]]>
         </rdf:Description>
@@ -7207,6 +7297,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Judge or Justice"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648",
+			"cito:hasCitedEntity": "http://dbpedia.org/resource/Judge",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648",
+			"cito:hasCitedEntity": "http://dbpedia.org/resource/Judge",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648#Cites",
@@ -7794,6 +7898,20 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170",
 			"cito:hasCitedEntity": "https://casetext.com/case/lefever-v-matthews-1",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170",
+			"cito:hasCitedEntity": "https://casetext.com/case/lefever-v-matthews-1",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170",
+			"cito:hasCitedEntity": "https://casetext.com/case/lefever-v-matthews-1",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -8034,6 +8152,20 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Fourteenth Amendment"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430214017802#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430214017802",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q188116",
+			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430214017802#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430214017802",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q188116",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430214017802#Cites",
