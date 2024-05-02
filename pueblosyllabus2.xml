@@ -12,7 +12,7 @@
 			</publicationStmt>
 			<sourceDesc sameAs="http://www.cwrc.ca">
 				<p>Created from original research by members of CWRC/CSÉC unless
-					otherwise noted</p>
+					otherwise n</p>
 			</sourceDesc>
 		</fileDesc>
 		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
@@ -4662,6 +4662,13 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154",
 			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183605154",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -4742,6 +4749,13 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted."
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183653735#Cites",
@@ -5200,6 +5214,13 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264",
 			"cito:hasCitedEntity": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430183756264",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-21",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -5280,6 +5301,13 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "(C) Grounds. The motion may be based on one or more of these grounds, and must specify the grounds on which it is based: (8) The opposing party has failed to state a claim on which relief can be granted."
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233",
+			"cito:hasCitedEntity": "https://casetext.com/rule/michigan-court-rules/michigan-court-rules/chapter-2-civil-procedure/subchapter-2100-commencement-of-action-service-of-process-pleadings-motions/rule-2116-summary-disposition",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184003233#Cites",
@@ -5738,6 +5766,13 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177",
 			"cito:hasCitedEntity": "https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184111177",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/courts/supreme-court/case-information-2022-2023-term/2023-april-case-call/164046-carrie-pueblo-v-rachel-haas/",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -5818,6 +5853,13 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Syllabus"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442",
+			"cito:hasCitedEntity": "https://www.courts.michigan.gov/siteassets/case-documents/uploads/opinions/final/sct/164046_78_01.pdf",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184152442#Cites",
@@ -6244,6 +6286,13 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Child Custody Act, MCL 722.21 et seq."
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079",
+			"cito:hasCitedEntity": "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-act-91-of-1970.pdf",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430184529079#Cites",
@@ -7486,6 +7535,13 @@
 			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648",
 			"cito:hasCitedEntity": "http://dbpedia.org/resource/Judge",
 			"cito:hasCitationEvent": "cito:cites"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185246648",
+			"cito:hasCitedEntity": "http://dbpedia.org/resource/Judge",
+			"cito:hasCitationEvent": "cito:cites"
 		}
 	],
 	"as:generator": {
@@ -7723,6 +7779,13 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "LeFever v Matthews , 336 Mich App 651"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170",
+			"cito:hasCitedEntity": "https://casetext.com/case/lefever-v-matthews-1",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430185729170#Cites",
@@ -8152,6 +8215,13 @@
 			"@type": "cito:Citation",
 			"dc:format": "text/plain",
 			"rdf:value": "Fourteenth Amendment"
+		},
+		{
+			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430214017802#Cites",
+			"@type": "cito:Citation",
+			"cito:hasCitingEntity": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430214017802",
+			"cito:hasCitedEntity": "http://www.wikidata.org/entity/Q188116",
+			"cito:hasCitationEvent": "cito:cites"
 		},
 		{
 			"@id": "https://raw.githubusercontent.com/sofiawilson/class/main/pueblosyllabus2.xml?citation_annotation_20240430214017802#Cites",
